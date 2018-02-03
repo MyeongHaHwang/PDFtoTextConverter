@@ -1,0 +1,452 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.8
+(10/2008)  
+TELECOMMUNICATION 
+STANDARDIZATION  SECTOR 
+OF  ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Alternative approval process for new and 
+revised ITU-T Recommendations 
+ 
+Recommendation  ITU-T  A.8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recommendation ITU-T A.8 
+Alternative approval process for new and revised  
+ITU-T Recommendations 
+ 
+ 
+ 
+Summary 
+This Recommendation provides working methods and procedures for approving draft new and 
+revised ITU-T Recommendations using the alternative approval process. 
+ 
+ 
+Source 
+Recommendation ITU-T A.8 was prepared by TSAG (2005-2008) and approved by the World 
+Telecommunication Standardization Assembly (Johannesburg, 21-30 October 2008). 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.8 (10/2008) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure e.g. interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met.  The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ 
+©  ITU  2009 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.8 (10/2008)  
+ 
+CONTENTS 
+ Page 
+1 General ..................................................................................................................................... 1 
+2 Process ..................................................................................................................................... 1 
+3 Prerequisites ............................................................................................................................. 1 
+4 Last call and additional review................................................................................................. 2 
+5 Procedure at study group meetings .......................................................................................... 3 
+6 Notification .............................................................................................................................. 4 
+7 Correction of defects................................................................................................................ 5 
+8 Deletion of Recommendations................................................................................................. 5 
+8.1  Deletion of Recommendations by WTSA ................................................................ 5 
+8.2  Deletion of Recommendations between WTSAs ..................................................... 5 
+ 
+ 
+ 
+  Rec. ITU-T A.8 (10/2008) iii 
+
+ 
+ 
+Recommendation ITU-T A.8 
+Alternative approval process for new and revised  
+ITU-T Recommendations 
+(2000; 2004; 2006; 2008) 
+1 General 
+1.1 Recommendations of the ITU Telecommunication Standardization Sector (ITU-T) will be approved 
+using this alternative approval process (AAP), except Recommendations that have policy or regulatory 
+implications, which will be approved using the traditional approval process (TAP) found in Resolution 1 of 
+the World Telecommunication Standardization Assembly (WTSA). 
+The competent study group may also seek approval at a WTSA. 
+1.2 In accordance with the ITU Convention, the status of Recommendations approved is the same for 
+both AAP and TAP methods of approval. 
+2 Process 
+2.1 Study groups should apply the AAP described below for seeking the approval of draft new and 
+revised Recommendations as soon as they have been developed to a sufficiently mature state. See Figure 1 
+for the sequence of events. 
+3 Prerequisites 
+3.1 Upon request of the study group chairman, the Director of the Telecommunication Standardization 
+Bureau (TSB) shall announce the intention to apply AAP and to initiate the last call set out in this 
+Recommendation (see clause 4 below). Such action shall be based upon consent at a study group or working 
+party meeting or, exceptionally, at a WTSA, that a draft Recommendation is sufficiently mature for such 
+action. At this stage, the draft Recommendation is considered to have "CONSENT". The Director shall 
+include a summary of the draft Recommendation in the announcement. Reference shall be provided to the 
+documentation where the text of the draft new or revised Recommendation to be considered may be found. 
+This information shall be made available to all Member States and Sector Members. 
+3.2 The text of the draft new or revised Recommendation must be available to TSB in a final edited 
+form at the time that the Director makes the announcement of the intended application of the AAP set out in 
+this Recommendation. Any associated electronic material included in the Recommendation (e.g., software, 
+test vectors, etc.) must also be made available to TSB at the same time. A summary that reflects the final 
+edited text of the draft Recommendation must also be provided to TSB, in accordance with clause 3.3 below.  
+3.3 Such a summary should be prepared in accordance with the Author's Guide for drafting ITU-T 
+Recommendations. This summary is a brief outline of the purpose and content of the new or revised draft 
+Recommendation and, where appropriate, the intent of the revisions. No Recommendation shall be 
+considered as complete and ready for approval without this summary statement. 
+3.4 Approval may only be sought for a draft new or revised Recommendation within the study group's 
+mandate as defined by the Questions allocated to it, in accordance with No. 192 of the Convention. 
+Alternatively, or additionally, approval may be sought for amendment of an existing Recommendation 
+within the study group's responsibility and mandate. 
+  Rec. ITU-T A.8 (10/2008) 1 
+ 
+3.5 Where a draft new or revised Recommendation falls within the mandate of more than one study 
+group, the chairman of the study group proposing the approval should consult and take into account the 
+views of any other study group chairmen concerned before proceeding with the application of this approval 
+procedure. 
+3.6 Recommendations are to be elaborated in accordance with the Common Patent Policy for  
+ITU-T/ITU-R/ISO/IEC available at http://www.itu.int/ITU-T/ipr/. For example:  
+3.6.1 Any party participating in the work of ITU-T should, from the outset, draw the attention of the 
+Director of TSB to any known patent or to any known pending patent application, either of their own or of 
+other organizations. The "Patent Statement and Licensing Declaration" form from the ITU-T website is to be 
+used.  
+3.6.2 ITU-T non-member organizations that hold patent(s) or pending patent application(s), the use of 
+which may be required in order to implement an ITU-T Recommendation, can submit a "Patent Statement 
+and Licensing Declaration" to TSB using the form available at the ITU-T website. 
+3.7 In the interests of stability, once a new or revised Recommendation has been approved, approval 
+should not normally be sought within a reasonable period of time for any further amendment of that new text 
+or that revised portion, respectively, unless the proposed amendment complements rather than changes the 
+agreement reached in the previous approval process, or a significant error or omission is discovered. As a 
+guideline, in this context "a reasonable period of time" would be at least two years, in most cases. 
+Amendments that correct defects may be approved, in accordance with clause 7.1. 
+4 Last call and additional review 
+4.1 The last call encompasses the four-week time period and procedures beginning with the Director's 
+announcement of the intention to apply the alternative approval process (clause 3.1). 
+4.2 If TSB has received a statement(s) indicating that the use of intellectual property, protected by one 
+or more copyright(s) or patent(s), issued or pending, may be required in order to implement a draft 
+Recommendation, the Director shall post this information on the ITU-T website. 
+4.3 The Director of TSB shall advise the Directors of the other two Bureaux that Member States and 
+Sector Members are being asked to comment on the approval of a proposed new or revised 
+Recommendation. 
+4.4 During the last call, should any Member State or Sector Member be of the opinion that the draft 
+new or revised Recommendation should not be approved, they should advise their reasons for disapproving 
+and indicate the possible changes that would facilitate further consideration and approval of the draft new or 
+revised Recommendation. TSB will make the comments available to the membership of ITU-T. 
+4.4.1 If no comments, other than comments indicating typographical error(s) (misspelling, syntactical and 
+punctuation mistakes, etc.), are received by the end of the last call, the draft new or revised Recommendation 
+is considered as approved, and the typographical errors are corrected.  
+4.4.2  If comments, other than those indicating typographical errors, are received by the end of the last 
+call, the study group chairman, in consultation with TSB, makes the judgement whether:  
+1) a planned study group meeting is sufficiently close to consider the draft Recommendation for 
+approval, in which case the procedures in clause 4.6 regarding approval at a study group meeting 
+are applied; or  
+2) to save time and/or because of the nature and maturity of the work, comment resolution should be 
+initiated under the direction of the study group chairman. This will be accomplished by appropriate 
+2 Rec. ITU-T A.8 (10/2008)  
+ 
+study group experts, via electronic correspondence or at meetings. Revised, edited draft text is 
+prepared, as appropriate, and the procedures beginning in clause 4.4.3 are applied. 
+4.4.3 After comment resolution is completed, and the revised and edited draft text is made available, the 
+study group chairman, in consultation with TSB, makes the judgement whether:  
+a) a planned study group meeting is sufficiently close to consider the draft Recommendation for 
+approval, in which case the procedures in clause 4.6 are applied; or 
+b) to save time and/or because of the nature and maturity of the work, an additional review should be 
+initiated, in which case the procedures in clause 4.5 are applied. 
+4.5 The additional review encompasses a three-week time period and will be announced by the 
+Director. The text (including any revisions as a result of comment resolution) of the draft Recommendation 
+in a final edited form and comments from the last call must be made available to TSB at the time that the 
+Director makes the announcement of the additional review. Reference shall be provided to the 
+documentation where the text of the draft Recommendation and last call comments to be considered may be 
+found.  
+4.5.1 If no comments, other than comments indicating typographical error(s) (misspelling, syntactical and 
+punctuation mistakes, etc.), are received by the end of the additional review, the Recommendation is 
+considered as approved, and the typographical errors are corrected by TSB.  
+4.5.2 If comments, other than comments indicating typographical errors(s), are received by the end of the 
+additional review, then the procedures in clause 4.6 regarding approval at a study group meeting are applied.  
+4.6 The Director shall explicitly announce the intention to approve the draft Recommendation at least 
+three weeks prior to the study group meeting. The Director shall include the specific intent of the proposal in 
+summarized form. Reference shall be provided to the documentation where the draft text and comments from 
+the last call (and additional review, if relevant) may be found. The edited text of the draft Recommendation 
+from the additional review (or last call if there is no additional review) is submitted for approval by the study 
+group meeting in accordance with clause 5 below. 
+5 Procedure at study group meetings 
+5.1 The study group should review the text of the draft new or revised Recommendation and the 
+associated comments referred to in clause 4.6 above. The meeting may then accept any corrections or 
+amendments to the draft new or revised Recommendation. The study group should reassess the summary 
+statement in terms of its completeness. 
+5.2 Changes may only be made during the meeting as a consequence of written comments as a result of 
+the last call, additional review, contributions, or temporary documents including liaison statements. Where 
+proposals for such revisions are found to be justified but to have a major impact on the intent of the 
+Recommendation or to depart from points of principle agreed at the previous study group or working party 
+meeting, consideration of this approval procedure should not be applied at this meeting. However, in 
+justified circumstances, the approval procedure may still be applied if the chairman of the study group, in 
+consultation with TSB, considers: 
+– that the proposed changes are reasonable (in the context of the documentation described in this 
+clause) for those Member States and Sector Members not represented at the meeting, or not 
+represented adequately under the changed circumstances; and 
+– that the proposed text is stable. 
+However, if a Member State present declares that this text has policy or regulatory implications or there is a 
+doubt, the approval procedure shall proceed according to Resolution 1, clause 9.3 or clause 5.8 below. 
+  Rec. ITU-T A.8 (10/2008) 3 
+ 
+5.3 After debate at the study group meeting, the decision of the meeting to approve the 
+Recommendation under this approval procedure must be unopposed (but see clauses 5.5, 5.7 and 5.8). Every 
+effort should be made to reach unopposed agreement. 
+5.4 If, despite these attempts, unopposed agreement has not been reached, the Recommendation is 
+considered as approved if, following consultation with their Sector Members present, no more than one 
+Member State present in the meeting opposes the decision to approve the Recommendation (but see clauses 
+5.5, 5.6 and 5.8). Otherwise, the study group may authorize additional work to address the remaining issues.  
+5.5 In cases where a Member State or Sector Member does not elect to oppose approval of a text, but 
+would like to register a degree of concern on one or more aspects, this shall be noted in the report of the 
+meeting. Such concerns shall be mentioned in a concise note appended to the text of the Recommendation 
+concerned. 
+5.6 A decision must be reached during the meeting on the basis of a text available in its final form to all 
+participants at the meeting. Exceptionally, but only during the meeting, a Member State may request more 
+time to consider its position for clause 5.4 above. Unless the Director of TSB is advised of their opposition 
+within a period of four weeks from the end of the meeting, the Recommendation is approved and the 
+Director shall proceed in accordance with clause 6.1. 
+5.6.1 A Member State that requested more time to consider its position and that then indicates 
+disapproval within the four-week interval specified in clause 5.6 above is requested to include its reasons and 
+to indicate the possible changes that would facilitate further consideration, if required, for future approval of 
+the draft new or revised Recommendation.  
+5.7 A Member State or Sector Member may advise at the meeting that it is abstaining from the 
+application of the procedure. Their presence shall then be ignored for the purposes of clause 5.3 above. Such 
+an abstention may subsequently be revoked, but only during the course of the meeting. 
+5.8 If the draft new or revised Recommendation is not approved, the study group chairman, after 
+consultation with the parties concerned, may proceed according to clause 3.1 above, without further 
+CONSENT at a subsequent working party or study group meeting. 
+6 Notification 
+6.1 The Director of TSB shall promptly notify the membership of the results (indicating approval or 
+non-approval) of the last call and additional review. 
+6.2 Within two weeks of the closing date of the study group meeting described in clauses 5.3 to 5.5 
+above or, exceptionally, two weeks after the period described in clause 5.6, the Director shall notify whether 
+the text is approved or not by a circular. The Director shall arrange for this information to also be included in 
+the next available ITU Operational Bulletin. Within this same time period, the Director shall also ensure that 
+any Recommendation approved is available online, with an indication that the Recommendation may not be 
+in its final publication form. 
+6.3 Should minor, purely editorial amendments or correction of evident oversights or inconsistencies in 
+the text as presented for approval be necessary, TSB may correct these with the approval of the chairman of 
+the study group. 
+6.4 The Secretary-General shall publish the approved new or revised Recommendations as soon as 
+practicable, indicating, as necessary, a date of entry into effect. However, in accordance with 
+Recommendation ITU-T A.11, minor amendments may be covered by corrigenda rather than a complete 
+reissue. Also, where appropriate, texts may be grouped to suit market needs. 
+4 Rec. ITU-T A.8 (10/2008)  
+ 
+6.5 Text shall be added to the cover sheets of all new and revised Recommendations urging users to 
+consult the ITU-T patent database and the ITU-T software copyright database. Suggested wording is: 
+ "ITU draws attention to the possibility that the practice or implementation of this Recommendation 
+may involve the use of a claimed intellectual property right. ITU takes no position concerning the 
+evidence, validity or applicability of claimed intellectual property rights, whether asserted by ITU 
+Member States and Sector Members or by others outside of the Recommendation development 
+process." 
+ "As of the date of approval of this Recommendation, ITU had/had not received notice of intellectual 
+property, protected by patents/software copyrights, which may be required to implement this 
+Recommendation. However, implementers are cautioned that this may not represent the latest 
+information and are therefore strongly urged to consult the appropriate ITU-T databases available at 
+the ITU-T website." 
+6.6 See Recommendation ITU-T A.11 concerning the publication of new and revised 
+Recommendations. 
+7 Correction of defects 
+7.1 When a study group identifies the need for implementers to be made aware of defects 
+(e.g., typographical errors, editorial errors, ambiguities, omissions or inconsistencies and technical errors) in 
+a Recommendation, one mechanism that may be employed is an implementers' guide. This guide is a 
+historical document recording all identified defects and their status of correction, from their identification to 
+final resolution. Implementers' guides shall be agreed by the study group, or agreed by one of its working 
+parties with the concurrence of the study group chairman. Implementers' guides shall be made available by 
+posting on the ITU-T website with open access. 
+8 Deletion of Recommendations 
+Study groups may decide in each individual case which of the following alternatives is the most appropriate 
+one. 
+8.1 Deletion of Recommendations by WTSA 
+Upon the decision of the study group, the chairman shall include in his report to WTSA the request to delete 
+a Recommendation. WTSA may approve this request. 
+8.2 Deletion of Recommendations between WTSAs 
+8.2.1 At a study group meeting it may be agreed to delete a Recommendation, i.e. because it has been 
+superseded by another Recommendation or because it has become obsolete. This agreement by the Member 
+States and Sector Members present at the meeting must be unopposed. If unopposed agreement has not been 
+reached, the same criteria as in clause 5.4 above are applied. Information about this agreement, including an 
+explanatory summary about the reasons for the deletion, shall be provided by a circular. If no objection to the 
+deletion is received from a Member State or a Sector Member within three months, the deletion will come 
+into force. In the case of objection, the matter will be referred back to the study group. 
+8.2.2 Notification of the result will be given in another circular, and TSAG will be informed by a report 
+from the Director of TSB. In addition, the Director shall publish a list of deleted Recommendations 
+whenever appropriate, but at least once by the middle of a study period. 
+  Rec. ITU-T A.8 (10/2008) 5 
+ 
+Approved
+LC
+(a) 3 weeks
+4 weeks Approved
+4
+(b)
+Director's SG
+SG or Edited Director's
+(c)
+announcement Meeting
+WP text announcement
+meeting for LC and posting Comment and posting () 6
+() 1 () 2 for LC resolution AR () 5
+(a) (b)
+(7)
+3 weeks Approved
+() 3
+911
+(b)
+(a)
+Edited Director's Director's
+text announcement notification
+for AR and posting and publication
+LC:    Last Call
+() 8 for AR (see ITU-T. A.11)
+AR:    Additional Review
+() 10 () 12
+A.8(08)_F01
+ 
+Figure 1 – Sequence of events  
+Notes to Figure 1 – AAP sequence of events 
+1) SG or WP consent – The study group or working party concludes that the work on a draft 
+Recommendation is sufficiently mature to begin the alternative approval process and to initiate the 
+last call (clause 3.1). 
+2) Edited text available – The final, edited, draft text, including summary, is provided to TSB, and the 
+study group chairman requests the Director to initiate the last call (clause 3.2). Any associated 
+electronic material included in the Recommendation must also be made available to TSB at the 
+same time. 
+3) Director's last call announcement and posting – The Director announces the beginning of the last 
+call to all Member States, Sector Members and Associates, with reference to the summary and 
+complete text. If the draft Recommendation has not already been electronically posted, it is done at 
+this time (clause 3.1). 
+4) Last call judgement – The study group chairman, in consultation with TSB, makes the judgement 
+whether: 
+a) no comments other than those indicating typographical errors have been received. In this case, 
+the Recommendation is considered as approved (clause 4.4.1); 
+b) a planned study group meeting is sufficiently close to consider the comments received 
+(clause 4.4.2); or  
+c) to save time and/or because of the nature and maturity of the work, comment resolution should 
+be initiated leading to the preparation of edited texts (clause 4.4.2). 
+5) Director's study group announcement and posting – The Director announces that the next study 
+group meeting will consider the draft Recommendation for approval and will include reference to 
+either: 
+a) the draft Recommendation (the edited text (LC) version) plus the comments received from the 
+last call (clause 4.6); or 
+b) if comment resolution has been carried out, the revised draft Recommendation text. If the 
+revised draft Recommendation has not already been electronically posted, it is done at this time 
+(clause 4.6). 
+6) Study group decision meeting – The study group meeting reviews and addresses all written 
+comments and either: 
+a) proceeds under WTSA Resolution 1 or clause 5.8, as appropriate, if there might be policy or 
+regulatory implications (clause 5.2); or 
+6 Rec. ITU-T A.8 (10/2008)  
+ 
+b) approves the draft Recommendation (clause 5.3 or 5.4); or  
+c) does not approve the draft Recommendation. If it is concluded that a further attempt at 
+addressing comments received is appropriate, then additional work should be done and the 
+process returns to step 2 (without further CONSENT at a working party or study group 
+meeting) (clause 5.8). 
+7) Comment resolution – The study group chairman, with assistance from TSB and experts, via 
+electronic correspondence and rapporteur and working party meetings, where appropriate, addresses 
+the comments and prepares a new edited draft Recommendation text (clause 4.4.2). 
+8) Edited text available – The revised edited text, including summary, is provided to TSB 
+(clause 4.4.2). 
+9) Next step judgement – The study group chairman, in consultation with TSB, makes the judgement 
+whether: 
+a) a planned study group meeting is sufficiently close to consider the draft Recommendation for 
+approval (clause 4.4.3 a); or  
+b) to save time and/or because of the nature and maturity of the work, an additional review should 
+be initiated (clause 4.4.3 b). 
+10) Director's additional review announcement and posting – The Director announces the beginning of 
+the additional review to all Member States and Sector Members, with reference to the summary and 
+complete text of the revised draft Recommendation. If the revised draft Recommendation has not 
+already been electronically posted, it is done at this time (clause 4.5). 
+11) Additional review judgement – The study group chairman, in consultation with TSB, makes the 
+judgement whether: 
+a) no comments other than those indicating typographical errors have been received. In this case, 
+the Recommendation is considered approved (clause 4.5.1); or 
+b) comments other than those indicating typographical errors have been received. In this case, the 
+process proceeds to the study group meeting (clause 4.5.2). 
+12) Director's notification – The Director notifies the members that the draft Recommendation has been 
+approved (clause 6.1 or 6.2). 
+ 
+  Rec. ITU-T A.8 (10/2008) 7 
+
+
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Telephone transmission quality, telephone installations, local line networks 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2009 

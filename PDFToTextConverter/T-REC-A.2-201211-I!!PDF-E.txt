@@ -1,0 +1,295 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.2
+(11/2012)  
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Presentation of contributions to the ITU 
+Telecommunication Standardization Sector 
+ 
+Recommendation  ITU-T  A.2 
+ 
+ 
+ 
+
+ 
+Recommendation ITU-T A.2 
+Presentation of contributions to the ITU 
+Telecommunication Standardization Sector 
+ 
+ 
+ 
+Summary 
+This Recommendation gives directives on how draft, present and submit contributions to ITU-T 
+study groups. 
+ 
+ 
+History 
+Edition Recommendation Approval Study Group 
+1.0 ITU-T A.1 1984-10-19 Assembly  
+2.0 ITU-T A.1 1988-11-25 Assembly  
+3.0 ITU-T A.1 1993-03-12 TSAG  
+4.0 ITU-T A.2 1996-10-18 Assembly  
+5.0 ITU-T A.2 2000-10-06 Assembly  
+6.0 ITU-T A.2 2004-10-14 Assembly  
+6.1  ITU-T A.2 (2004) Amd. 1 2006-07-07 TSAG  
+7.0 ITU-T A.2 2008-10-30 Assembly  
+8.0 ITU-T A.2 2012-11-30 Assembly  
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.2 (11/2012) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2013 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.2 (11/2012) 
+ 
+Table of Contents 
+ Page 
+Appendix I – Detailed guidelines for the preparation of contributions relative to the study 
+of ITU-T Questions ......................................................................................................  3 
+I.1 Contents of contribution .................................................................................  3 
+I.2 Mechanics and presentation ...........................................................................  4 
+ 
+ 
+ 
+  Rec. ITU-T A.2 (11/2012) iii 
+
+ 
+Recommendation ITU-T A.2 
+Presentation of contributions to the ITU 
+Telecommunication Standardization Sector 
+(1984; 1988; 1993; 1996; 2000; 2004; 2008; 2012) 
+1 With regard to the presentation of contributions to the study of Questions assigned to the 
+ITU Telecommunication Standardization Sector (ITU-T), the following general directives should be 
+applied: 
+a) Contributions should be concisely drafted, avoiding unnecessary details, tables or statistics 
+that make no direct contribution to the study of a Question. They should be clearly written 
+with a view to being universally understood, i.e. they should be as codified as possible, use 
+international terminology and avoid the technical jargon peculiar to the author's country. 
+Contributors should use the units, letter symbols and graphical symbols of the international 
+system of units (SI) as supported by the International Organization for Standardization 
+(ISO) and the International Electrotechnical Commission (IEC). In addition, Coordinated 
+Universal Time (UTC) should be used to designate time.  
+b) A contribution should not, as a rule, exceed about 2500 words (requiring no more than five 
+printed pages to be distributed), nor should it include more than three pages of figures 
+(making eight pages in all). It should be accompanied by an abstract that is no more than 
+150-200 words, and which summarizes the aim of the contribution and its technical content. 
+Whenever possible, a section with the heading Rationale (or Discussion) should be used for 
+the main text, which sets forth the essential information required for justifying the 
+proposals or conclusions of the contribution. The contribution should end with a Proposal 
+or, if not feasible, a Conclusion (both if required). For self-explanatory proposals, the 
+rationale section may be omitted. These directives do not apply to draft Recommendations. 
+c) Documents of purely theoretical interest that are not directly related to the Questions under 
+study should not be submitted. 
+d) Articles that have been or are to be published in the technical press should not be submitted 
+to ITU-T, unless they relate directly to Questions under study. 
+e) Passages of an unduly commercial nature included in a contribution may be deleted by the 
+Director of the Telecommunication Standardization Bureau (TSB) in agreement with the 
+chairman; the author of the contribution shall be advised of any such deletions. 
+Detailed guidelines recommended for the preparation of contributions are provided in Appendix I. 
+Details on the presentation of ITU-T texts can be found in the "Author's Guide for drafting ITU-T 
+Recommendations" (referred to as "Guide" in the following). 
+2 With regard to the submission of contributions and TDs (including liaison statements), all 
+documents to ITU-T should, as far as possible, be sent using electronic means; if no such facilities 
+are available to the contributor, submission of paper only copies is acceptable. 
+Electronic submission facilities include e-mail and the ITU web-based interface. Detailed 
+information and instructions for these methods are maintained by TSB on the ITU-T website and 
+disseminated periodically via TSB circular.  
+If contributions are submitted as paper documents, they shall be addressed to TSB and copied to the 
+study group chairmen and vice-chairmen, working party chairmen and concerned rapporteur(s). 
+3 Contributions should be printable in A4 format, as far as possible. The first page must have 
+the standard layout of ITU-T contributions. Drafts must be in one or more of the official and 
+working languages of the Union. When existing ITU-T texts already translated have been used in 
+some parts of a contribution, a copy of the contribution with a precise reference to the original 
+  Rec. ITU-T A.2 (11/2012) 1 
+ 
+sources also should be sent to TSB. If ITU-T figures are used in the contributions, the ITU-T 
+number must not be deleted, but if the figure has been modified, the abbreviation "mod" should be 
+added after the number. If not required by further development of the text, use of colours in the text 
+of contributions or other submitted documents should be avoided. 
+4 If a contribution contains electronic material (software, test data, etc., referred to herein as 
+"software"), it should be attached to the text sent to TSB. 
+Contributors are encouraged to submit formal language descriptions as electronic attachments. 
+ 
+  
+2 Rec. ITU-T A.2 (11/2012) 
+ 
+Appendix I 
+ 
+Detailed guidelines for the preparation of contributions 
+relative to the study of ITU-T Questions 
+(This appendix does not form an integral part of this Recommendation.) 
+NOTE – These guidelines will be updated by TSB as necessary. The updated version will be maintained on 
+the ITU-T website and issued in a TSB circular. 
+The guidelines in this appendix supplement the general directives set out in Recommendation 
+ITU-T A.2. For ease of reference, they are organized under relevant headings in two categories: one 
+deals with the contents of the contribution and the other with the mechanics of its presentation. 
+I.1 Contents of contribution 
+A contribution should be clear, concise and comprehensive in itself. It should start with the Heading 
+and the Abstract, which are independent sections. The main text of the contribution should contain 
+two sections: Rationale (or Discussion) and Proposal (or Conclusion). Supplementary sections such 
+as annexes, if necessary, should follow the main text. The guidelines for the structure of the main 
+text do not apply to draft Recommendations or to submission by rapporteurs. 
+I.1.1 Heading – The heading of a contribution submitted to TSB should provide: 
+– study group Question number(s) that the contribution is addressing; 
+– place and date of the meeting to which the contribution is directed; 
+– study group and working party to which the contribution should be submitted; 
+– source of the contribution: originating country and/or organization; 
+– title of the contribution; 
+– contact information for the contribution originator and/or representative: name, 
+organization, country, telephone, fax and e-mail address. 
+A template that defines the recommended heading format is available (under "Guides, Tools, and 
+Templates") on the ITU-T study group and TSAG websites. 
+I.1.2 Abstract – The abstract should outline clearly and concisely the aim (for example, proposal 
+for a new Recommendation) and the content (proposals and/or conclusions of the contribution). In 
+addition, it should enable prospective readers to determine quickly whether the contribution 
+contains information in their area of interest and, often, which working party(ies) should review the 
+contribution. This is a very important part of the document and would normally be prepared after 
+the other sections are written. An abstract should not exceed 150-200 words. It should be 
+understandable by other study groups and not just the intended readers of the contribution. 
+I.1.3 Rationale (Discussion) – This section should provide discussion, reasons and justification 
+for the proposals or conclusions. It develops the theme, describing the methods used and the 
+observations or findings, and comments on their significance. 
+I.1.4 Proposal (Conclusion) – The main text should end with a conclusion that, whenever 
+possible, should be in the form of a concrete proposal indicating the intended disposition of the 
+contribution. It would be useful to make the following distinction between Proposal and 
+Conclusion, so that a standard approach to their application may be adopted. The heading Proposal 
+should be used when the section offers suggestions for acceptance (such as solutions, plans and 
+changes the contributor expects to be implemented) and when decisions or actions are requested. 
+The heading Conclusion should be used when it is merely informational, such as summarizing 
+observations and no decision about a course of action is expected. If both appear in a contribution, 
+the proposals should follow the conclusions. 
+  Rec. ITU-T A.2 (11/2012) 3 
+ 
+I.1.5 Supplementary Sections – Supporting or more detailed information that might interrupt the 
+flow of ideas in the main text should be placed in the sections containing annexes, appendices, 
+references and attachments. A solid line can be used to separate such sections from the main text. 
+"The Guide" describes the distinction between the uses of Annex and Appendix. 
+I.2 Mechanics and presentation 
+I.2.1 Clause numbering – The contribution should be structured logically and, whenever clarity 
+and flow demand, hierarchically, with discrete clauses and subclauses for presenting different levels 
+of detail. Different clauses and subclauses in the main text should be designated with decimal 
+numbers, adhering as much as possible to the hierarchical numbering system recommended for 
+ITU-T texts (see "Guide"); for example, 1.1, 1.2.3. Examples for numbering the supplementary 
+sections are A.1.1 of Annex A and VI.3.4 of Appendix VI. 
+I.2.2 Page numbering – The title page should be left unnumbered. All the following pages 
+should be numbered consecutively from page 2, including tables, annexes, appendices or 
+attachments. Page numbers should normally be centred at the top of the page. Each page should 
+include the document number (if available) immediately below the page number. It is useful to 
+show the total number of pages with the page number, e.g. 2 of 10. 
+I.2.3 Figures and diagrams – Figures and diagrams must be clear and legible when printed in A4 
+format. 
+I.2.4 Formulae – Mathematical formulae should only be presented for explaining texts. Details 
+of how they are derived should be avoided. 
+I.2.5 Quotations – Simple reference to the document number or paragraph number of an existing 
+text or key phrase should be used instead of lengthy quotes. Material available elsewhere in ITU-T 
+should not be reproduced or quoted at length. Excerpts or brief summaries may be included in the 
+contribution when it is known that the members of the ITU-T study group do not have ready access 
+to such material. 
+I.2.6 References – Reference to other ITU-T contributions or Recommendations should be made 
+by using the official document number, e.g. COM 14-10. If the referenced contribution belongs to a 
+previous study period, this fact should be noted as well. 
+References to standards other than ITU or ISO/IEC publications or standards should conform to the 
+requirements of Recommendation ITU-T A.5. Other publications not covered by Recommendation 
+ITU-T A.5 may be referenced in a Bibliography.  
+(See "Guide" for more information on references and bibliographies.) 
+I.2.7 Revision to existing text – If a contribution proposes modifications to an existing text,  
+e.g. draft Recommendation, the portions of the text to be modified should be clearly shown with 
+revision marks. Adequate indications shall also be given to identify any changes proposed with 
+regard to the previous version of the same text. 
+Such change indications could be made, for example, by strikethrough, underlining and by vertical 
+revision bars (|) appearing at the margin of the page.  
+ 
+ 
+ 
+ 
+4 Rec. ITU-T A.2 (11/2012) 
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2013 

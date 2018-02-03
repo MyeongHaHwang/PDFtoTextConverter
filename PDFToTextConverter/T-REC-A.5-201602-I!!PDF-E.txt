@@ -1,0 +1,409 @@
+ 
+ 
+ 
+ 
+I n t e r n a t i o n a l T e l e c o m m u n i c a t i o n U n i o n 
+ 
+ 
+ITU-T A.5 
+(02/2016)    
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Generic procedures for including references 
+to documents of other organizations 
+in ITU-T Recommendations 
+ 
+Recommendation  ITU-T  A.5 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Recommendation ITU-T A.5 
+Generic procedures for including references to documents of 
+other organizations in ITU-T Recommendations 
+ 
+ 
+ 
+Summary 
+Recommendation ITU-T A.5 provides generic procedures for normatively referencing documents of 
+other organizations in ITU-T Recommendations. 
+ 
+ 
+History 
+*
+Edition Recommendation Approval Study Group Unique ID 
+1.0 ITU-T A.5 1998-01-14 TSAG 
+11.1002/1000/4193 
+1.1  ITU-T A.5 Annex B 1998-09-07 TSAG 
+11.1002/1000/4457 
+2.0 ITU-T A.5 2000-06-14 TSAG 
+11.1002/1000/5091 
+3.0 ITU-T A.5 2001-11-30 TSAG 
+11.1002/1000/5579 
+4.0 ITU-T A.5 2012-11-30 TSAG 
+11.1002/1000/11954 
+5.0 ITU-T A.5 2016-02-05 TSAG 
+11.1002/1000/12598 
+ 
+ 
+ 
+Keywords 
+Normative references, qualification, references. 
+ 
+                                                 
+*
+ To access the Recommendation, type the URL http://handle.itu.int/ in the address field of your web 
+browser, followed by the Recommendation's unique ID. For example, http://handle.itu.int/11.1002/1000/ 
+11830-en. 
+  Rec. ITU-T A.5 (02/2016) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2016 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.5 (02/2016) 
+ 
+Table of Contents 
+ Page 
+1 Scope .............................................................................................................................  1 
+2 References .....................................................................................................................  1 
+3 Definitions ....................................................................................................................  1 
+3.1 Terms defined elsewhere ................................................................................  1 
+3.2 Terms defined in this Recommendation .........................................................  1 
+4 Abbreviations and acronyms ........................................................................................  2 
+5 Conventions ..................................................................................................................  2 
+6 Generic procedures for including references to documents of other organizations 
+in ITU-T Recommendations .........................................................................................  2 
+7 Qualification of referenced organizations ....................................................................  3 
+Annex A  – Format for documenting a study group or working party decision .......................  5 
+Annex B – Criteria for qualifying organizations .....................................................................  6 
+Bibliography.............................................................................................................................  7 
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.5 (02/2016) iii 
+
+ 
+Recommendation ITU-T A.5 
+Generic procedures for including references to documents of 
+other organizations in ITU-T Recommendations 
+1 Scope 
+This Recommendation provides generic procedures for normatively referencing the documents of 
+other organizations in ITU-T Recommendations. Annex B provides the criteria to qualify a 
+referenced organization. Clauses 6 and 7 describe the procedures in detail. Annex A provides the 
+format for documenting a study group or working party decision with respect to making the 
+reference. Specific information regarding qualified organizations can be found on the ITU-T 
+website. 
+NOTE  – These generic procedures do not apply to references to standards produced by ISO and IEC. The 
+long-standing ability to make such references continues unchanged. 
+The case of ITU-T accepting texts, in part or in whole, from another organization is addressed 
+in [b-ITU-T A.25]. 
+2 References 
+The following ITU-T Recommendations and other references contain provisions which, through 
+reference in this text, constitute provisions of this Recommendation. At the time of publication, the 
+editions indicated were valid. All Recommendations and other references are subject to revision; 
+users of this Recommendation are therefore encouraged to investigate the possibility of applying the 
+most recent edition of the Recommendations and other references listed below. A list of the 
+currently valid ITU-T Recommendations is regularly published. The reference to a document within 
+this Recommendation does not give it, as a stand-alone document, the status of a Recommendation. 
+None. 
+3 Definitions 
+3.1 Terms defined elsewhere 
+This Recommendation uses the following terms defined elsewhere: 
+3.1.1 normative reference [b-ITU-T A.1]: Another document that contains provisions which, 
+through reference to it, constitute provisions to the referring document. 
+3.2 Terms defined in this Recommendation 
+This Recommendation defines the following terms: 
+3.2.1 approved document: An official output (such as a standard, a specification, an 
+implementation agreement, etc.) which has been formally approved by an organization. 
+3.2.2 non-normative reference: The whole or parts of a document where the referenced 
+document has been used as supplementary information in the preparation of the Recommendation 
+or to assist the understanding or use of the Recommendation, and to which conformance is not 
+necessary. 
+3.2.3 referenced organization: An organization for which an ITU-T study group identifies the 
+need to make a specific reference (either normative or non-normative) to one of its document. 
+  Rec. ITU-T A.5 (02/2016) 1 
+ 
+4 Abbreviations and acronyms 
+This Recommendation uses the following abbreviations and acronyms: 
+None. 
+5 Conventions 
+None. 
+6 Generic procedures for including references to documents of other organizations in 
+ITU-T Recommendations 
+6.1 An ITU-T study group or a member of a study group may identify the need to make a 
+specific reference (either normative or non-normative) to a document from another organization 
+within a specific draft Recommendation. It is preferred that, rather than making reference to an 
+entire document from an outside organization, reference be made to only the specific section(s) 
+concerned. 
+The requirements of clauses 6.2 and 6.3 do not apply for non-normative references, since such 
+referenced documents are not considered to be an integral part of an ITU-T Recommendation. They 
+are documents that add to the reader's understanding but are not essential to the implementation of, 
+or compliance with, the Recommendation. 
+6.2 For normative references, a member submits a contribution, or the Rapporteur or Editor 
+submits a TD, to the study group or working party providing information, as outlined in 
+clauses 6.2.1 to 6.2.10. 
+The study group or working party evaluates this information and decides whether to make the 
+reference. The format for documenting the study group or working party decision is given in 
+Annex A. 
+Specific criteria for the qualification of the considered organization are provided in Annex B. The 
+1
+list of those qualified organizations is on the Databases page of the ITU-T website . 
+6.2.1 A clear description of the document considered for reference (type of document, title, 
+number, version, date, etc.). 
+6.2.2 Status of approval. Referencing a document that has not yet been approved by the 
+referenced organization can lead to confusion; thus, normative referencing is usually limited to 
+approved documents. If absolutely necessary, such a reference can be made where cooperative work 
+requiring cross-references is being approved by ITU-T and another organization in approximately 
+the same time-frame. 
+6.2.3 Justification for the specific reference. 
+6.2.4 Current information, if any, about intellectual property rights (IPR) issues (patents, 
+copyrights, trademarks). 
+6.2.5 Other information that might be useful in describing the "quality" of the document 
+(e.g., whether products have been implemented using it, whether conformance requirements are 
+clear, whether the specification is readily and widely available). 
+6.2.6 The degree of stability or maturity of the document (e.g., length of time it has existed). 
+6.2.7 Relationship with other existing or emerging documents. 
+                                                 
+1
+ The current website is: http://www.itu.int/en/ITU-T/extcoop/Pages/sdo.aspx 
+2 Rec. ITU-T A.5 (02/2016) 
+ 
+6.2.8 When a document is to be referenced in an ITU-T Recommendation, all explicit references 
+within the referenced document should also be listed. 
+6.2.9 Qualification of referenced organization (per clause 7). This need only be done the first 
+time a document from the referenced organization is being considered for referencing and only if 
+such qualification information has not been documented already. 
+6.2.10 A full copy of the existing document. No reformatting is necessary. The objective is to have 
+referenced documents available via the web at no cost, so that the study group or working party may 
+proceed with its evaluation. Accordingly, if a document to be referenced is available in this manner, 
+it is sufficient for the contributing member to provide its exact location on the web. On the other 
+hand, if the document is not available in this manner, a full copy must be provided (in electronic 
+format if permissible by the referenced organization, otherwise in paper format). 
+6.3 For normative references only, the study group or working party evaluates the above 
+information and comes to its conclusions based on the usual consensus process. The decision of the 
+study group or working party shall be documented using the format in Annex A. This requirement 
+must be completed, at the latest, at the time the Recommendation is determined under the traditional 
+approval process (TAP) or consented under the alternative approval process (AAP). 
+The study group or working party report may simply note that the procedures of Recommendation 
+ITU-T A.5 have been satisfied and provide a pointer to the document where the full details reside. 
+6.4 If the study group or working party decides to make the normative reference, it should be 
+introduced with the standard text provided in clause 2 of the "Author's guide for drafting ITU-T 
+Recommendations". 
+NOTE  – In the case of texts produced jointly by ITU-T and ISO/IEC JTC 1, it is recognized that clause 6.6 
+2
+of the Rules for presentation of ITU-T | ISO/IEC common texts apply. 
+7 Qualification of referenced organizations 
+7.1 To ensure the continued quality of the ITU-T Recommendations, not only is it necessary to 
+evaluate the document being proposed for normative reference, but it is also necessary for the study 
+group or working party to consider the referenced organization according to the criteria set out in 
+clauses 7.1.1, 7.1.2 and 7.1.3. 
+7.1.1 Qualification of the referenced organization according to Annex B should be conducted 
+before considering a normative reference from that organization. If the referenced organization has 
+already been qualified according to the criteria in Annex B (or previously to Recommendation 
+ITU-T A.4 or Recommendation ITU-T A.6), the evaluation may not need to be repeated, and only a 
+note of the result is required. 
+7.1.2 In addition, the referenced organization should have a process by which its output 
+documents are published and regularly maintained (i.e. reaffirmed, revised, withdrawn, etc.). 
+7.1.3 The referenced organization should also have a document change control process, including 
+a clear, unambiguous document numbering scheme. In particular, a feature to look for is that 
+updated versions of a given document be distinguishable from the earlier versions. 
+  
+                                                 
+2
+ The current website is: http://itu.int/en/ITU-T/about/groups/Documents/Rules-for-presentation-ITU-T-
+ISO-IEC.pdf 
+  Rec. ITU-T A.5 (02/2016) 3 
+ 
+7.2 Qualification of an organization according to the criteria in Annex B is reviewed on a 
+regular basis by study groups that need to make normative references to documents of that 
+organization. In particular, if the patent policy of that organization has changed, it is important to 
+check that the new patent policy is consistent with the Common Patent Policy for 
+ITU-T/ITU-R/ISO/IEC and the Guidelines for the Implementation of the Common Patent Policy for 
+3
+ITU-T/ITU-R/ISO/IEC . 
+  
+                                                 
+3
+  See http://www.itu.int/en/ITU-T/ipr  
+4 Rec. ITU-T A.5 (02/2016) 
+ 
+Annex A 
+ 
+Format for documenting a study group or working party decision 
+(This annex forms an integral part of this Recommendation.) 
+The decision of the study group or working party with respect to making the normative reference 
+must be documented in the meeting record using the following format: 
+1 Clear description of the document. 
+ (type of document, title, number, version, date, etc.). 
+2 Status of approval: 
+ (only approved documents should be considered) 
+3 Justification for the specific reference. 
+4 Current information, if any, about IPR issues: 
+ (including patents, copyrights, trademarks). 
+5 Other useful information describing the "quality" of the document: 
+ (e.g. length of time it has existed, whether products have been implemented using it, 
+whether conformance requirements are clear, whether the specification is readily and 
+widely available). 
+6 The degree of stability or maturity of the document. 
+7 Relationship with other existing or emerging documents. 
+8 When a document is referenced in an ITU-T Recommendation, all normative references 
+within that referenced document should also be listed. 
+ NOTE – A separate review is not required for all of these normative references. However, the 
+referenced organization, if different from ISO or IEC, needs to be qualified under Annex B (and 
+previously under Recommendation ITU-T A.4 or Recommendation ITU-T A.6). If the referenced 
+organization for a normative reference is not qualified, a qualification under Annex B should be 
+performed first. In addition, if the ITU-T Recommendation is planned for approval under the 
+traditional approval process (TAP) found in Resolution 1 of the World Telecommunication 
+Standardization Assembly (WTSA), all normative references in the referenced document should be 
+reviewed. 
+9 Qualification of referenced organization: 
+ (This needs to be done only the first time that a document from the referenced organization 
+is being considered for referencing, and only if such qualification information has not 
+already been documented or if it has changed). 
+9.1 Qualification under Annex B. 
+9.2 Document publication and maintenance process. 
+9.3 Document change control process. 
+10 Location of a full copy of the document. 
+11 Other (for any supplementary information). 
+  Rec. ITU-T A.5 (02/2016) 5 
+ 
+Annex B 
+ 
+Criteria for qualifying organizations 
+(This annex forms an integral part of this Recommendation.) 
+Organization attributes Desired characteristics 
+1) Objectives/relationship of work to Should refer to development, adoption, implementation and use of 
+ITU-T work national, regional or international standards, or to the provision of 
+input into international standards organizations, especially ITU-T. 
+2) Organization:  
+ – legal status; – should indicate in which country/countries it has legal status; 
+ – geographic scope; – should indicate the scope of the standards of the organization; 
+ – accreditation; – should indicate the accrediting entity; 
+ – secretariat; – should identify the permanent secretariat; 
+ – nominated representative. – should nominate a representative. 
+3) Membership/participation (openness) – should describe the membership/participation model; 
+– membership/participation criteria should not preclude any 
+party with material interest, especially ITU Member States and 
+Sector Members; 
+– membership/participation should comprise a significant 
+representation of telecommunication interests. 
+4) Technical subject areas Should be relevant to a particular study group(s) or ITU-T as a 
+whole. 
+5) IPR Policy and Guidelines on:  
+a) patents; a) should be consistent with the "Common Patent Policy for  
+ ITU-T/ITU-R/ISO/IEC" and the "Guidelines for 
+ Implementation of the Common Patent Policy for 
+ ITU-T/ITU-R/ISO/IEC"*; 
+b) software copyright (if applicable); b) should be consistent with the "ITU-T Software Copyright 
+ Guidelines"*; 
+c) marks (if applicable); and c) should be consistent with the "ITU-T Guidelines related to the 
+ inclusion of Marks in ITU-T Recommendations"; 
+d) copyright d) ITU and ITU Member States and Sector Members should have 
+the right to copy for standardization-related purposes (see also 
+[b-ITU-T A.1] with regard to copying and distribution). 
+6) Working methods/processes – should be documented; 
+– should be open, fair and transparent; 
+– should document anti-trust policy. 
+7) Outputs – should identify outputs available to ITU-T; 
+– should identify the process for ITU-T to obtain outputs. 
+ *) particularly, licences must be offered on a non-discriminatory 
+basis and on reasonable terms and conditions (whether free of 
+charge or with monetary compensation) to both members and 
+non-members. 
+  
+6 Rec. ITU-T A.5 (02/2016) 
+ 
+Bibliography 
+ 
+[b-ITU-T A.1] Recommendation ITU-T A.1 (2012), Working methods for study groups of the 
+ITU Telecommunication Standardization Sector (ITU-T). 
+[b-ITU-T A.25] Recommendation ITU-T A.25 (2016), Generic procedures for incorporating 
+text between ITU-T and other organizations. 
+ 
+  Rec. ITU-T A.5 (02/2016) 7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Environment and ICTs, climate change, e-waste, energy efficiency; construction, installation 
+and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2016 

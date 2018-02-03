@@ -1,0 +1,409 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.7
+(11/2012)  
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Focus groups: Establishment and working 
+procedures 
+ 
+Recommendation  ITU-T  A.7 
+ 
+ 
+ 
+
+ 
+Recommendation ITU-T A.7 
+Focus groups: Establishment and working procedures 
+ 
+ 
+ 
+Summary 
+This Recommendation describes working methods and procedures of a focus group such as its 
+establishment, terms of reference, leadership, participation, financing, support, deliverables, etc. 
+ 
+ 
+History 
+Edition Recommendation Approval Study Group 
+1.0 ITU-T A.7 2000-06-14 TSAG  
+2.0 ITU-T A.7 2002-06-21 TSAG  
+3.0 ITU-T A.7 2004-10-14 Assembly  
+3.1  ITU-T A.7 (2004) Amd. 1 2006-07-07 TSAG  
+4.0 ITU-T A.7 2008-10-30 Assembly  
+5.0 ITU-T A.7 2012-11-30 Assembly  
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.7 (11/2012) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2013 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.7 (11/2012) 
+ 
+Table of Contents 
+ Page 
+1 Scope ............................................................................................................................  1 
+2 Establishment, terms of reference and leadership ........................................................  1 
+2.1 Establishment .................................................................................................  1 
+2.2 Terms of reference ..........................................................................................  3 
+2.3 Leadership ......................................................................................................  4 
+3 Focus group working procedures..................................................................................  4 
+3.1 Participation ....................................................................................................  4 
+4 Financing of focus groups and their meetings ..............................................................  4 
+5 Administrative support .................................................................................................  5 
+6 Meeting logistics ...........................................................................................................  5 
+7 Working language .........................................................................................................  5 
+8 Technical contributions ................................................................................................  5 
+9 Intellectual property rights ............................................................................................  5 
+10 Deliverables – approval and distribution ......................................................................  5 
+10.1 Approval of deliverables ................................................................................  5 
+10.2 Printing and distribution of deliverables ........................................................  6 
+11 Progress reports ............................................................................................................  6 
+12 Meeting announcements ...............................................................................................  6 
+13 Working guidelines .......................................................................................................  6 
+ 
+  Rec. ITU-T A.7 (11/2012) iii 
+
+ 
+Recommendation ITU-T A.7 
+Focus groups: Establishment and working procedures 
+(2000; 2002; 2004; 2006; 2008; 2012) 
+1 Scope 
+The objective of focus groups is to help advance the work of the ITU Telecommunication 
+Standardization Sector (ITU-T) study groups and to encourage the participation of members of 
+other standards organizations, including experts and individuals who may not be members of ITU. 
+Focus group activities may include an analysis of gaps between current Recommendations and 
+expected Recommendations, and provide material for consideration in the development of 
+Recommendations.  
+Procedures and working methods are established to facilitate the financing of focus groups, the 
+completion of work on a well-defined topic and the documentation of the results. 
+The process of establishment is described in order to help identify, in a timely and collaborative 
+manner, all study groups concerned by the scope of a potential focus group, and to agree on a study 
+group or the Telecommunication Standardization Advisory Group (TSAG) as the parent group. 
+The management of a focus group is placed under the responsibility of a parent group (study group 
+or TSAG), in association with other involved study groups in the case where the work area of the 
+focus group overlaps with the responsibility and the mandate of those study groups (see clause 2.2). 
+2 Establishment, terms of reference and leadership 
+Within the ITU-T standardization working structure, the establishment procedures of a focus group 
+should be progressed in a transparent manner. 
+For each step of the establishment process, the compliance of the focus group proposal with all 
+clauses of this Recommendation should be ensured, and all decisions are to be made by consensus. 
+2.1 Establishment 
+A focus group is established to help advance the work of ITU-T study groups. 
+To justify the establishment of a focus group, the following basic criteria shall be fulfilled to their 
+full extent: 
+• There is a significant interest in the subject and a need to help advance the work of the 
+ITU-T study groups 
+• The subject is not already addressed by work underway in ITU-T study groups, or cannot 
+currently be handled by a study group 
+• There should normally be at least four members (i.e. Member States, or Sector Members 
+from different Member States) who commit to actively support the new focus group. 
+Attention should be paid to distinguishing between the following two situations: 
+a) Topic is within the mandate of one study group 
+When the terms of reference of the focus group fall within the mandate of a single study group, that 
+study group has the necessary authority to approve the formation of a focus group and become its 
+parent group (see clause 2.1.1), provided that the chairman of this study group consults with the 
+chairmen of all possibly impacted study groups. If there is any doubt that all the topics fall under 
+the responsibility and mandate of only this study group, the decision of such an establishment 
+should be referred to TSAG. 
+  Rec. ITU-T A.7 (11/2012) 1 
+ 
+b) Topic is within the mandate of multiple study groups 
+When the terms of reference of the focus group fall within the mandate of multiple study groups, 
+TSAG has the necessary authority to approve the formation of a focus group (see clause 2.1.2) and 
+to become its parent group or appoint a study group as the parent group. 
+The study group or TSAG, when receiving the written contribution, should check to see which 
+study group could best address the proposed activity for the focus group. The study group dealing 
+with the proposal for a focus group that contains topics felt as potentially falling under the 
+responsibility and mandate of one or more other study groups remains responsible for the 
+consultation with the other relevant study group chairmen and for informing TSAG and the Director 
+of TSB. The whole procedure for consultation should be kept responsive and fast by using, as often 
+as possible, consultation of relevant parties by e-mail and teleconferencing tools, rather than 
+physical meetings. 
+In all cases, the Director of TSB and the chairman of TSAG are to be kept duly advised during the 
+establishment procedure. 
+The establishment of a focus group and its first meeting will be announced according to clause 12 
+by the Director of TSB in cooperation with the parent group. 
+2.1.1 Establishment by a study group 
+2.1.1.1 Establishment at a study group meeting 
+For establishment at a study group meeting, the submission of a proposal to set up a focus group on 
+a specific topic, including terms of reference, should take the form of a written contribution 
+submitted at least twelve calendar days before that study group meeting. 
+In the case that all topics fall without doubt, within the work area of this study group, the 
+establishment will be discussed during this meeting, and may be decided at the same meeting. 
+If views are expressed that the proposed topic overlaps with the mandate of another study group, the 
+chairman of the study group to which the proposal is addressed will send the proposal to the 
+chairman of TSAG. The chairman of TSAG will then proceed as described in clauses 2.1.2.1 or 
+2.1.2.2 below. 
+2.1.1.2 Establishment between study group meetings 
+Exceptionally, in response to urgent marketplace needs, a focus group may be established between 
+study group meetings for the purpose of studying technical issues (i.e. those that have no regulatory 
+or policy implications). 
+The proposal, including terms of reference, to set up a focus group on a specific technical topic 
+(within the mandate of the parent group) may be sent by any member to the chairman of an 
+appropriate study group selected by the initiators according to the foreseen work content. The 
+chairman coordinates the first review of the proposal with the vice-chairmen and the chairmen of 
+working parties of the study group. If the proposal to establish the focus group is agreed, the 
+proposal, with completed terms of reference, will be posted on the ITU website and distributed to 
+the study group e-mail distribution list, allowing four weeks for comments. 
+In the absence of unresolved comments, the study group chairman may decide the immediate 
+establishment of the focus group. As far as possible, the chairman should seek to resolve comments 
+by correspondence; however, if this is not possible, the decision to approve the establishment of the 
+focus group is to be deferred to the next meeting of the study group. 
+If views are expressed that the proposed focus group overlaps with the mandate of another study 
+group, the chairman of the study group to which the proposal is addressed will send the proposal to 
+the chairman of TSAG. The chairman of TSAG will then proceed as described in clauses 2.1.2.1 or 
+2.1.2.2.  
+2 Rec. ITU-T A.7 (11/2012) 
+ 
+2.1.2 Establishment by TSAG  
+2.1.2.1 Establishment at a TSAG meeting 
+For establishment at a TSAG meeting, the submission of a proposal to set up a focus group on a 
+specific topic, including terms of reference, should take the form of a written contribution submitted 
+at least twelve calendar days before that TSAG meeting. 
+The TSAG plenary can decide to establish the focus group and designate the parent group or be its 
+parent group. 
+This way of proceeding can also be adopted to decide on cases transmitted according to 
+clause 2.1.1.2 above, when the schedule of the TSAG meeting is compatible with a timely response, 
+whereby the proposal must be available for the members at least twelve calendar days before the 
+meeting. 
+2.1.2.2 Establishment between TSAG meetings 
+Exceptionally, in response to urgent marketplace needs, a focus group may be established between 
+TSAG meetings for the purpose of studying technical issues (i.e. those that have no regulatory or 
+policy implications). 
+A proposal to set up a focus group on a specific technical topic, including draft terms of reference, 
+may be submitted by any member to the chairman of TSAG.  
+The chairman of TSAG coordinates the first review of the proposal with the vice-chairmen and 
+working party chairmen of TSAG and chairmen of all study groups. If the proposal to set up a focus 
+group is agreed, the proposal, with completed terms of reference and the nomination of the parent 
+group, will be posted on the ITU-T website and distributed to the TSAG e-mail distribution list, 
+allowing four weeks for comments. 
+In the absence of unresolved comments, the chairman of TSAG may decide the immediate 
+establishment of the focus group. As far as possible, the chairman of TSAG should seek to resolve 
+comments by correspondence; however, if this is not possible, the decision to approve 
+establishment of the focus group is deferred to the next meeting of TSAG. 
+This way of proceeding can also be adopted to decide on cases transmitted according to 
+clause 2.1.1.2 above, when the schedule of the TSAG meetings is not deemed to be compatible with 
+a timely response. 
+2.2 Terms of reference 
+The topic for a particular focus group is to be well defined (prior to approval), and the terms of 
+reference must include the scope of actions, a plan of action, the expected deliverables and the time 
+schedules for completion. 
+The relationship of this work to that of the parent group must be indicated, in addition to 
+relationships with other ITU study groups, standards organizations, forums and consortia, etc., and 
+the degree of urgency of the specific topic. The justification that the intended activity cannot be 
+handled as efficiently by study groups should be given. 
+It is expected that a focus group will complete its work in a short period of time, typically 
+9-12 months, following approval of its formation. In appropriate circumstances, and subject to 
+review and approval by the parent group, the term and scope of a focus group may be extended. 
+During the life of the focus group, its terms of reference cannot be modified by the focus group 
+itself. Any proposal to modify the terms of reference is to be submitted as a written contribution to 
+the parent group for its consideration and approval. 
+  Rec. ITU-T A.7 (11/2012) 3 
+ 
+If more than one study group is involved (i.e. the topic falls under the responsibility and mandate of 
+one or more other study groups), a possible modification of the terms of reference (including scope) 
+should be discussed with the other involved study groups before a decision is taken. 
+Extension of the lifetime requires a decision of the parent group (with no reservations by the other 
+involved study groups in the case where a topic falls under the responsibility and mandate of one or 
+more other study groups). The focus group will automatically stop if the parent group does not 
+agree to extend the lifetime of the focus group. 
+2.3 Leadership 
+A chairman and vice-chairman are initially appointed by the parent group. If needed, after the initial 
+establishment of the focus group, subsequent management appointments will be made by the focus 
+group, and the parent group informed accordingly. Appointment of chairman and vice-chairman 
+shall be primarily based upon demonstrated competence both in technical content of the parent 
+group and in the management skills required. 
+Member States and ITU-T Sector Members will provide the chairmanship, but vice-chairmanships 
+can be open to ITU-T Associates and academia, as well as to external experts. 
+A focus group chairman who is unable to carry out his or her duties is replaced by one of the vice-
+chairmen, who is chosen and appointed by the parent group at its next meeting. If none of the vice-
+chairmen is an ITU member, the parent group calls for candidates and the chairman is appointed at 
+the next meeting of the parent group. 
+3 Focus group working procedures 
+3.1 Participation 
+Any individual from a country that is a member of ITU and who is willing to contribute actively to 
+the work may participate in a focus group. This includes individuals who are also members of 
+international, regional and national organizations. 
+Participation in focus groups shall not be used as an alternative to ITU membership. 
+A list of participants is to be maintained by the focus group for reference purposes. This list will 
+include information for persons with disabilities on how their participation shall be facilitated. 
+Participation in focus groups that have impacts on strategic, structural and/or operational aspects of 
+ITU-T is limited to ITU-T members. 
+4 Financing of focus groups and their meetings 
+Financing of meetings and their preparation is accomplished by volunteer hosting in a similar 
+manner to rapporteur groups, or on the basis of financial arrangements determined by the focus 
+group, provided there is no incremental increase in expenditure and no adverse impact on the 
+normal work of the study groups and TSAG, except for encouraging the participation of persons 
+with disabilities in accordance with resolves 3 and 4 of Resolution 175 (Guadalajara, 2010) of the 
+Plenipotentiary Conference, and for supporting the participation of representatives of developing 
+1
+countries in accordance with resolves 3 of Resolution 123 (Rev. Guadalajara, 2010) of the 
+Plenipotentiary Conference. 
+____________________ 
+1
+  These include the least developed countries, small island developing states, landlocked developing 
+countries and countries with economies in transition. 
+4 Rec. ITU-T A.7 (11/2012) 
+ 
+5 Administrative support 
+Focus groups can establish their own method of providing and financing administrative support 
+between meetings. 
+Where administrative services are requested from TSB, there shall be no incremental increase in 
+expenditure and no adverse impact on the normal work of the study groups and TSAG, except for 
+encouraging the participation of persons with disabilities in accordance with resolves 3 and 4 of 
+Resolution 175 (Guadalajara, 2010) of the Plenipotentiary Conference, and for supporting the 
+participation of representatives of developing countries in accordance with resolves 3 of 
+Resolution 123 (Rev. Guadalajara, 2010) of the Plenipotentiary Conference. 
+6 Meeting logistics 
+The frequency and location of meetings is decided by each focus group. Electronic document 
+handling methods should be used as much as possible to advance the work rapidly (e.g. by using 
+electronic conferences and the World Wide Web). Participation of persons with disabilities, 
+including the provision of electronic documents in accessible formats, shall be encouraged in 
+accordance with Resolution 175 (Guadalajara, 2010) of the Plenipotentiary Conference.  
+7 Working language 
+The language to be used will be mutually agreed by the focus group participants. However, any 
+communication with the parent group shall preferably be in English or one of the other ITU official 
+languages. 
+8 Technical contributions 
+Any participant may submit a technical contribution directly to the focus group, in accordance with 
+the time schedule adopted. A template for contributions can be found on the ITU-T website. 
+Electronic document transfer methods should be used whenever possible. 
+9 Intellectual property rights 
+The Common Patent Policy for ITU-T/ITU-R/ISO/IEC is to be used. 
+The chairman of a focus group should announce this during every meeting and record all responses 
+in the meeting report. 
+The copyright provisions in Recommendation ITU-T A.1 are to be followed. 
+10 Deliverables – approval and distribution 
+Deliverables can be in the form of technical specifications, reports on standards gap analysis results, 
+base material for the development of draft Recommendations, etc., and are expected to form input 
+to the advanced work of the parent group. The focus group will send all of its deliverables to the 
+parent group for further consideration (see also clause 7). The deliverables shall be published as 
+TDs of the parent group in accordance with clause 3.3.3 of Recommendation ITU-T A.1, but no 
+later than four calendar weeks before the meeting of the parent group. 
+For the sake of clarity, all the output/deliverables of a focus group should be posted on the parent 
+group's website, whether or not one or more study groups are involved. 
+10.1 Approval of deliverables 
+Approval shall be obtained by consensus. 
+  Rec. ITU-T A.7 (11/2012) 5 
+ 
+10.2 Printing and distribution of deliverables 
+Focus groups may select the method of printing and distribution of deliverables, including the target 
+audience. Deliverables to the parent group, including progress reports, will be processed as TDs by 
+the parent group. 
+NOTE – A focus group may, at its discretion, share working documents via liaison statements. 
+All costs must be covered by the focus group. ITU-T will not be expected to offer any printing and 
+distribution services free of charge, except for progress reports submitted according to clause 11 
+below, and deliverables to study groups. 
+11 Progress reports 
+Focus group progress reports are to be provided at each meeting of the parent group meeting at least 
+twelve calendar days before the meeting and transmitted in copy to all involved study groups. They 
+will be posted in the form of TDs. 
+These progress reports to the parent group should include the following information: 
+– an updated work plan, including a schedule of planned meetings; 
+– status of work with reference to the work plan, including a list of outputs and the study 
+groups for which they are intended; 
+– summary of contributions considered by the focus group; 
+– list of attendees at all meetings held since the last progress report. 
+The parent group chairman should keep TSAG advised of the progress of the focus group. 
+12 Meeting announcements 
+The establishment of a focus group will be announced in cooperation with the parent group via ITU 
+publications and other means, including communication with other organizations and/or experts, 
+technical journals and the World Wide Web. 
+The first meeting of a focus group will be arranged by the parent group and the initially appointed 
+chairman. 
+The schedule of subsequent meetings of a focus group will be decided by the focus group. The 
+process of announcing meetings can be decided by the focus group and will be published at least six 
+weeks in advance on the ITU website. 
+13 Working guidelines 
+Focus groups may develop additional, internal working guidelines, as required. 
+ 
+6 Rec. ITU-T A.7 (11/2012) 
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2013 

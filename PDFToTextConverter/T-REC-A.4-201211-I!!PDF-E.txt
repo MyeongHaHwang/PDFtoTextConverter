@@ -1,0 +1,355 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.4
+(11/2012)  
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Communication process between the ITU 
+Telecommunication Standardization Sector and 
+forums and consortia 
+ 
+Recommendation  ITU-T  A.4 
+ 
+ 
+ 
+
+ 
+Recommendation ITU-T A.4 
+Communication process between the ITU 
+Telecommunication Standardization Sector and forums and consortia 
+ 
+ 
+Summary 
+This Recommendation describes how to initiate a communication process between ITU-T and a 
+forum/consortium. It lists the A.4-qualifying criteria for forums/consortia, and it describes the 
+document exchange between A.4-qualified forums/consortia and the ITU-T. 
+ 
+ 
+ 
+History 
+Edition Recommendation Approval Study Group 
+1.0 ITU-T A.4 1996-10-18 Assembly  
+2.0 ITU-T A.4 2000-10-06 Assembly  
+3.0 ITU-T A.4 2002-06-21 TSAG  
+3.1  ITU-T A.4 (2002) Amd. 1 2006-07-07 TSAG  
+3.2  ITU-T A.4 (2002) Amd. 2 2007-12-07 TSAG  
+4.0 ITU-T A.4 2012-11-30 Assembly  
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.4 (11/2012) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2013 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.4 (11/2012) 
+ 
+Table of Contents 
+ Page 
+1 Introduction ..................................................................................................................  1 
+2 Procedures ....................................................................................................................  1 
+2.1 Establishment of the communication process ................................................  1 
+2.2 Communication process once established ......................................................  2 
+2.3 ITU-T A.4-qualified organizations list ...........................................................  3 
+2.4 Copyright arrangements .................................................................................  3 
+Annex A – Qualifying criteria for forums/consortia communication process .........................  4 
+Appendix I – Establishment of a process for cooperation and exchange of information 
+under Rec. ITU-T A.4 ...................................................................................................  5 
+ 
+ 
+  Rec. ITU-T A.4 (11/2012) iii 
+
+ 
+Recommendation ITU-T A.4 
+Communication process between the ITU 
+Telecommunication Standardization Sector and forums and consortia 
+(1996; 2000; 2002; 2006; 2007; 2012) 
+1 Introduction 
+The purposes of the International Telecommunication Union are contained in Article 1 of the 
+Constitution. These include the aim "to promote, at the international level, the adoption of a broader 
+approach to the issues of telecommunications in the global information economy and society, by 
+cooperating with other world and regional intergovernmental organizations, and those non-
+governmental organizations concerned with telecommunications". 
+Also noted are the challenges faced by the Union in achieving its purposes in the changing 
+telecommunication environment, both in the period covered by the Strategic Plan for the Union for 
+1995-1999 and in the following period, as stated in Resolution 1 (Plenipotentiary Conference, 
+Kyoto, 1994). The Annex to Resolution 1 elaborates the Strategic Plan. For the Standardization 
+Sector, its strategy includes recognition of the growing influence of industry forums, and a specific 
+goal to develop appropriate agreements and cooperative relationships with other organizations, 
+including forums. Among the priorities identified for the Sector is the objective "to continue to 
+cooperate with other global and regional standardization organizations and industry forums to 
+harmonize the development and implementation of global telecommunication standards". 
+In order to facilitate the development of cooperative relationships with forums, and to encourage 
+information exchange, it is deemed necessary to provide guidance on the means of communication. 
+In particular, it is of benefit to establish procedures for use when structuring the communications 
+process between ITU-T and forums and consortia. 
+WTSA decides that the following procedures be applied. 
+2 Procedures 
+Study group chairmen are encouraged to engage in two-way communication, where appropriate, 
+with representatives of forums/consortia, and to invite presentation to their study groups of the work 
+of the forums/consortia, as identified by the study group. 
+In addition, procedures have been introduced for a formal communication process between ITU-T 
+(or one or more of the study groups) and forums/consortia that qualify according to the criteria in 
+Annex A. The communication process permits document exchange between ITU-T and qualified 
+forums/consortia. Establishing a communication process provides a framework for ongoing 
+communications, in order to: 
+– prevent inadvertent duplication of effort, while allowing each organization to pursue its 
+own mandate; 
+– provide authoritative information regarding one organization's dependencies on the other's 
+work; 
+– exchange information on topics of mutual interest. 
+2.1 Establishment of the communication process 
+Establishment of a communication process with a forum/consortium should be considered on a 
+case-by-case basis, and should be evaluated with due care and diligence using the set of criteria in 
+Annex A. Normally, the process is established at the study group level. In the case of groups 
+associated with one or more study groups, the evaluation and decision to proceed should be carried 
+  Rec. ITU-T A.4 (11/2012) 1 
+ 
+out by the lead study group. To avoid multiple requests to a forum/consortium for information 
+pertaining to the criteria in Annex A, and to facilitate evaluation by study groups, the Director of 
+TSB should make the request to the forum/consortium and subsequently make a preliminary 
+analysis of the response. A schematic diagram of the communication process is provided in 
+Appendix I. 
+2.1.1 Communication process initiated by an ITU-T study group 
+If a study group considers that it is beneficial to establish a communication process with a 
+forum/consortium, the study group should first check the ITU-T A.4-qualified organizations list 
+(see 2.3) and obtain the Director's analysis. The study group shall review the analysis and make a 
+decision whether or not to communicate with the forum/consortium. If the forum/consortium in 
+question is not on the list, the study group chairman asks the Director to request the 
+forum/consortium to provide the information and fill in the questionnaire relating to the qualifying 
+criteria set forth in Annex A. The Director performs a preliminary analysis of the forum/consortium 
+and transmits it to the affected study group(s), which shall review the analysis and make a decision 
+whether or not to communicate. Any areas of concern should be immediately shared with other 
+interested study group chairmen and the Director. If the study group decides to approve, the study 
+group chairman shall establish the communication process. The study group chairman should 
+facilitate the process as described in 2.2. 
+2.1.2 Communication process initiated by a forum/consortium 
+If a forum/consortium wishes to establish a communication process with a study group, that study 
+group should first check the ITU-T A.4-qualified organizations list (see 2.3) and obtain the 
+Director's analysis. The study group shall review the analysis and make a decision whether or not to 
+communicate with the forum/consortium. If the forum/consortium is not on the list, the procedure 
+described for this case in 2.1.1 is applied. Any areas of concern should immediately be shared with 
+other interested study group chairmen and the Director. If the study group decides to approve, the 
+communication process can be established. The study group chairman should facilitate the process 
+as described in 2.2. 
+If a forum/consortium contacts the Director of TSB to establish a communication process with 
+ITU-T, the Director should first determine whether it is appropriate for: 
+a) ITU-T (for related policy issues); or 
+b) one or more study groups (for topics relating to their work). 
+In case a), the Director evaluates the forum/consortium according to the criteria in Annex A. If the 
+Director decides to approve, he shall establish the communication process and inform TSAG and all 
+study groups. 
+In case b), the Director performs a preliminary analysis and transmits it to the affected study 
+group(s), which shall proceed as outlined in the first paragraph of 2.1.2. If multiple study groups are 
+involved, the decision of each study group should be communicated to the others, to TSAG and to 
+the Director of TSB. 
+2.2 Communication process once established 
+2.2.1 Documents sent to ITU-T A.4-qualified forums/consortia 
+A proposal to send a liaison statement to an ITU-T A.4-qualified forum/consortium can arise from 
+work by a rapporteur group, working party or study group. The decision to send such information is 
+made by the study group chairman in consultation with the relevant working party chairman, and, if 
+arising from a study group meeting, with the agreement of the study group. The documentation is 
+sent to the forum/consortium by TSB on behalf of the study group. 
+2 Rec. ITU-T A.4 (11/2012) 
+ 
+When necessary, between scheduled meetings, the liaison statement may be prepared by an 
+appropriate correspondence process and approved by the study group chairman in consultation with 
+the study group management. 
+2.2.2 Documents received from ITU-T A.4-qualified forums/consortia 
+Documents submitted to ITU-T by qualified forums/consortia should conform to criterion 8 in 
+Annex A. These documents are not issued as Contributions. As soon as they arrive they are made 
+available, with the agreement of the study group chairman for advance consideration by the relevant 
+group. Moreover, they are issued as a document to the relevant group with a reference to the 
+originating forum/consortium, i.e. as a Temporary Document at a study group or working party 
+meeting, or as a document at a rapporteur meeting. In the latter case, the receipt and disposition of 
+the document received should be recorded in the report of the rapporteur meeting. 
+2.3 ITU-T A.4-qualified organizations list 
+The Director of TSB is requested to maintain an up-to-date ITU-T A.4-qualified list of the 
+forums/consortia that are under evaluation and/or have been approved for the communication 
+process, including identification of the study groups concerned, and make it available online. 
+2.4 Copyright arrangements 
+The subject of modifications to texts and arrangements for royalty-free copyright licenses, including 
+the right to sub-license, for texts accepted by either ITU-T or by forums/consortia and their 
+publishers and others, is a matter to be agreed upon between TSB and the particular 
+forums/consortia. However, the originating organization retains the copyright for its texts. 
+  Rec. ITU-T A.4 (11/2012) 3 
+ 
+Annex A 
+ 
+Qualifying criteria for forums/consortia communication process 
+(This annex forms an integral part of this Recommendation.) 
+NOTE – An administration may require that "communications" to ITU-T or its study groups, from a 
+forum/consortium within that administration's jurisdiction, follow its established national procedures. 
+ 
+Forum/consortium attributes Desired characteristics 
+1) Objectives/relationship of work Objectives should refer to use of International Standards/Recommendations, or to the 
+to ITU-T work provision of input into international standards organizations, especially ITU-T. 
+2) Organization:  
+ – legal status; – should indicate in which country/countries it has legal status; 
+ – geographic scope; – should be global (i.e., should involve more than one region of the world); 
+ – secretariat; – permanent secretariat should exist; 
+ – nominated representative. – should be willing to nominate a representative. 
+3) Membership (openness) – forums/consortia membership criteria should not preclude any party with material 
+interest, especially ITU Member States and Sector Members; 
+– membership should comprise a significant representation of telecommunication 
+interests. 
+4) Technical subject  areas Should be relevant to a particular study group(s) or ITU-T as a whole. 
+5) IPR Policy and Guidelines on:  
+a) patent; a) should be consistent with "Common Patent Policy for ITU-T/ITU-R/ISO/IEC" and 
+ "Guidelines for Implementation of the Common Patent Policy for 
+ 
+ITU-T/ITU-R/ISO/IEC"*; 
+b) software copyright (if b) should be consistent with "ITU-T Software Copyright Guidelines"*; 
+applicable); 
+ 
+c) marks (if applicable); and 
+c) should be consistent with "ITU-T Guidelines related to the inclusion of Marks in ITU-T 
+ 
+Recommendations"; 
+d) copyright. 
+d) ITU and ITU Member States and Sector Members should have the right to copy for 
+standardization-related purposes (see also Rec. ITU-T A.1 with regard to copying and 
+distribution). 
+6) Working methods/processes – should be well-documented; 
+– should be open and fair; 
+– should support competition; 
+– should explicitly consider anti-trust issues. 
+7) Outputs – outputs available to ITU-T should be identified; 
+– process for ITU-T to obtain outputs should be identified. 
+8) Documents submitted to ITU-T – should contain no proprietary information (no distribution restriction); 
+– should indicate source within the forum/consortium (e.g., committee, subcommittee, 
+etc.); 
+– should indicate degree  of stability of the document (e.g., preliminary, mature, stable, 
+proposed date of adoption, etc.); 
+– should indicate degree of approval of document (i.e., per cent of total forum membership 
+involved and per cent of total forum membership that approved the document). 
+*) Particularly, licences must be offered on a non-discriminatory basis on reasonable terms and conditions (whether free of charge 
+or with monetary compensation) to both members and non-members. 
+ 
+4 Rec. ITU-T A.4 (11/2012) 
+ 
+Appendix I 
+Establishment of a process for cooperation and exchange of information under Rec. ITU-T A.4 
+(This appendix does not form an integral part of this Recommendation.) 
+ 
+ 1 2 3 4
+ Initiation  Evaluation  Decision  Process once established 
+according to the criteria
+= implementation 
+ (includes questionnaire in Annex A) 
+   
+   
+2.1.1 Initiation of the request by an SG The SG checks the ITU-T  The SG decides to Communication process 
+A.4-qualified list and reviews the communicate put into practice by the SG 
+analysis; if not on the list, see 2.1.2 
+b) 
+    
+2.1.2 Initiation of the request by a forum The SG checks the ITU-T  The SG makes a decision to Communication process 
+to an SG A.4-qualified list and reviews the approve communication put into practice by the SG 
+analysis; if not in the list, see 2.1.2 
+b) 
+    
+2.1.2 a) Initiation of the request by a forum Evaluation by the Director The Director decides to Communication process 
+to the Director for related policy approve and informs put into practice by the 
+issues TSAG + SGs Director 
+    
+2.1.2 b) Initiation of the request by a forum The Director performs a  The SG decides to Communication process 
+to the Director for SG issues  preliminary analysis, the SG communicate, the SG informs put into practice by the SG 
+reviews the analysis other SGs, TSAG and the 
+Director 
+   
+   
+Director adds forum under  Director indicates on the list 
+evaluation to the list that forum is ITU-T 
+A.4-qualified 
+     
+ 
+5 Rec. ITU-T A.4 (11/2012) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2013 

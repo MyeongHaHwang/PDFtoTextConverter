@@ -1,0 +1,344 @@
+ 
+ 
+ 
+I n t e r n a t i o n a l T e l e c o m m u n i c a t i o n U n i o n 
+ 
+ 
+ 
+ITU-T A.25 
+(02/2016)    
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Generic procedures for incorporating text 
+between ITU-T and other organizations 
+ 
+ 
+Recommendation  ITU-T  A.25 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Recommendation ITU-T A.25 
+Generic procedures for incorporating text 
+between ITU-T and other organizations 
+ 
+ 
+ 
+Summary 
+Recommendation ITU-T A.25 addresses the process of incorporating text (in whole or in part, with 
+or without modification) of documents from another organization into an ITU-T Recommendation 
+(or another ITU-T document). Similarly, guidance is provided for other organizations incorporating 
+text (in whole or in part, with or without modification) from ITU-T Recommendations (or other 
+ITU-T documents) in their documents. 
+ 
+ 
+History 
+*
+Edition Recommendation Approval Study Group 
+Unique ID 
+1.0 ITU-T A.25  2016-02-05 TSAG 
+11.1002/1000/12573 
+ 
+ 
+ 
+ 
+Keywords 
+Copying text, incorporating text, qualification, references. 
+ 
+                                                 
+*
+ To access the Recommendation, type the URL http://handle.itu.int/ in the address field of your web 
+browser, followed by the Recommendation's unique ID. For example, http://handle.itu.int/11.1002/1000/11
+830-en. 
+  Rec. ITU-T A.25 (02/2016) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2016 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.25 (02/2016) 
+ 
+Table of Contents 
+ Page 
+1 Scope .............................................................................................................................  1 
+2 References .....................................................................................................................  1 
+3 Definitions ....................................................................................................................  1 
+3.1 Terms defined elsewhere ................................................................................  1 
+3.2 Terms defined in this Recommendation .........................................................  1 
+4 Abbreviations and acronyms ........................................................................................  1 
+5 Conventions ..................................................................................................................  2 
+6 Generic procedures for incorporating text of other organizations in ITU-T 
+documents .....................................................................................................................  2 
+6.1 Documents received from other organizations ...............................................  2 
+6.2 Process for incorporation ................................................................................  2 
+6.3 Permission arrangements ................................................................................  3 
+6.4 Copyright arrangements .................................................................................  4 
+7 Generic procedures for incorporating text of ITU-T documents in the documents 
+of other organizations ...................................................................................................  4 
+7.1 Documents sent to other organizations ...........................................................  4 
+7.2 Permission arrangements ................................................................................  4 
+7.3 Copyright arrangements .................................................................................  4 
+Bibliography.............................................................................................................................  5 
+ 
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.25 (02/2016) iii 
+
+ 
+Recommendation ITU-T A.25 
+Generic procedures for incorporating text 
+between ITU-T and other organizations 
+1 Scope 
+This Recommendation provides generic procedures for incorporating (in whole or in part, with or 
+without modification) the documents of other organizations in ITU-T Recommendations (or other 
+ITU-T documents), and provides guidance for other organizations on how to incorporate ITU-T 
+Recommendations (or other ITU-T documents), in whole or in part, in their documents. 
+The case of normatively referencing the documents of other organizations in ITU-T 
+Recommendations is addressed in [ITU-T A.5]. 
+2 References 
+The following ITU-T Recommendations and other references contain provisions which, through 
+reference in this text, constitute provisions of this Recommendation. At the time of publication, the 
+editions indicated were valid. All Recommendations and other references are subject to revision; 
+users of this Recommendation are therefore encouraged to investigate the possibility of applying the 
+most recent edition of the Recommendations and other references listed below. A list of the 
+currently valid ITU-T Recommendations is regularly published. The reference to a document within 
+this Recommendation does not give it, as a stand-alone document, the status of a Recommendation. 
+[ITU-T A.5] Recommendation ITU-T A.5 (2016), Generic procedures for including references 
+to documents of other organizations in ITU-T Recommendations. 
+3 Definitions 
+3.1 Terms defined elsewhere 
+This Recommendation uses the following terms defined elsewhere: 
+3.1.1 approved document [ITU-T A.5]: An official output (such as a standard, a specification, 
+an implementation agreement, etc.) which has been formally approved by an organization. 
+3.1.2 non-normative reference [ITU-T A.5]: The whole or parts of a document where the 
+referenced document has been used as supplementary information in the preparation of the 
+Recommendation or to assist the understanding or use of the Recommendation and to which 
+conformance is not necessary. 
+3.1.3 normative reference [b-ITU-T A.1]: Another document that contains provisions which, 
+through reference to it, constitute provisions to the referring document. 
+3.2 Terms defined in this Recommendation 
+This Recommendation defines the following term: 
+3.2.1 draft document: An output from an organization, which is still in draft form. 
+4 Abbreviations and acronyms 
+This Recommendation uses the following abbreviations and acronyms: 
+TSB Telecommunication Standardization Bureau 
+  Rec. ITU-T A.25 (02/2016) 1 
+ 
+ 
+5 Conventions 
+None. 
+6 Generic procedures for incorporating text of other organizations in ITU-T documents 
+This clause addresses the process of incorporating text (in whole or in part) from another 
+organization into an ITU-T document. This process is expected to be rarely used. 
+6.1 Documents received from other organizations 
+6.1.1 An ITU-T study group may incorporate text (in whole or in part, with or without 
+modification) from a draft or approved document from another organization in a draft ITU-T 
+Recommendation (or in another ITU-T document) as explained in clauses 6.1.3 and 6.3.1. ITU-T 
+study groups are strongly encouraged to incorporate approved text rather than draft text from other 
+organizations. 
+6.1.2 These documents are not issued as contributions. As soon as they arrive they are made 
+available, with the agreement of the study group chairman, and subject to the permission 
+arrangements set out in clause 6.3 and to the copyright arrangements set out in clause 6.4, for 
+advance consideration by the relevant group. Moreover, they are issued as a document to the 
+relevant group with a reference to the originating organization, i.e., as a TD at a study group or 
+working party meeting, or as a document at a rapporteur meeting. In the latter case, the receipt and 
+disposition of the document received should be recorded in the report of the rapporteur meeting. 
+6.1.3 When an ITU-T study group decides to incorporate text (in whole or in part, with or 
+without modification) from another organization in its own document, it notifies the organization 
+about the actions taken concerning this text. The use, acceptance or reproduction of such text by the 
+ITU-T study group is subject to the permission arrangements set out in clause 6.3 and to the 
+copyright arrangements set out in clause 6.4. 
+6.1.4 The resulting ITU-T Recommendation (or ITU-T document) shall identify the incorporated 
+text, and shall provide an explicit reference to the document of the organization and to its particular 
+version, as described in clause 6.4 of [ITU-T A.5]. 
+6.2 Process for incorporation 
+6.2.1 An ITU-T study group or a member of the study group may identify the need to specifically 
+incorporate text (in whole or in part, with or without modification) from another organization within 
+a specific draft ITU-T Recommendation (or another draft ITU-T document). 
+6.2.2 Documents submitted to the ITU-T study group by other organizations should conform to 
+the following criteria: 
+a) should contain no confidential information (i.e., no distribution restriction); 
+b) should indicate the source within the organization (e.g., committee, subcommittee, etc.); 
+c) should differentiate between normative references and non-normative references. 
+6.2.3 Information is provided in a TD (or a contribution), as outlined in clauses 6.2.3.1 
+to 6.2.3.10. 
+6.2.3.1 A clear description of the document considered for incorporation (type of document, title, 
+number, version, date, etc.). 
+6.2.3.2 Status of approval. Incorporating text that has not yet been approved by the organization 
+can lead to confusion; thus, incorporating is usually limited to approved documents. If absolutely 
+necessary, incorporation of text from a draft document can be made where cooperative work 
+requiring cross-incorporation is being approved by ITU-T and another organization in 
+approximately the same time-frame. 
+2 Rec. ITU-T A.25 (02/2016) 
+ 
+6.2.3.3 Justification for the specific incorporation, including why it is inappropriate to reference the 
+text in the draft ITU-T Recommendation (or other draft ITU-T document). 
+6.2.3.4 Current information, if any, about intellectual property rights (IPR) issues (patents, 
+copyrights, trademarks). 
+6.2.3.5 Other information that might be useful in describing the "quality" of the document 
+(e.g., whether products have been implemented using it, whether conformance requirements are 
+clear, whether the specification is readily and widely available). 
+6.2.3.6 The degree of stability or maturity of the document (e.g., length of time it has existed). 
+6.2.3.7 Relationship with other existing or emerging documents. 
+6.2.3.8 When text from a document is to be incorporated in an ITU-T Recommendation (or other 
+ITU-T document), an explicit reference to the document shall be provided; all explicit references 
+within the incorporated document should also be listed. 
+6.2.3.9 A full copy of the existing document. No reformatting is necessary. The objective is to have 
+referenced documents available via the web at no cost, so that the study group (or working party) 
+may proceed with its evaluation. Accordingly, if a document to be incorporated in whole or in part 
+is available in this manner, it is sufficient to provide its exact location on the web. On the other 
+hand, if the document is not available in this manner, a full copy must be provided (preferably in 
+electronic format). 
+6.2.3.10  Qualification of the organization (per Annex B of [ITU-T A.5]). This needs to be done 
+only the first time a document from the organization is being considered for incorporation, and only 
+if such qualification information has not been already documented. Qualification of an organization 
+is reviewed on a regular basis (any study group willing to incorporate a document from the 
+organization may perform the review). In particular, if the patent policy of that organization has 
+changed, it is important to check that the new patent policy is consistent with the Common Patent 
+Policy for ITU-T/ITU-R/ISO/IEC and the Guidelines for the Implementation of the Common Patent 
+Policy for ITU-T/ITU-R/ISO/IEC. 
+6.2.4 The study group (or working party) evaluates this information and decides whether to make 
+the incorporation. The format for documenting the study group or working party decision is given in 
+Annex A of [ITU-T A.5]. This decision occurs, at the latest, at the time the Recommendation is 
+determined for consultation in case of the traditional approval process (TAP) or consented for last 
+call in case of the alternative approval process (AAP). The study group or working party report may 
+simply note that the procedures of this Recommendation have been satisfied and provide a pointer 
+to the document where the full details reside. 
+6.3 Permission arrangements 
+6.3.1 At the earliest possible moment, upon the request of the study group or working party, the 
+Telecommunication Standardization Bureau (TSB) will ensure that the organization has provided a 
+written statement in which it agrees to: 
+• the distribution of the material for discussions within the appropriate groups, and  
+• its possible use (in whole or in part, with or without modification) in any resulting 
+ITU-T Recommendations (or other ITU-T documents) that are published. 
+6.3.2 Should the organization decline to provide such statement or fail to do so, the incorporation 
+shall not be made. In this case, the decision to incorporate the reference (according to [ITU-T A.5]) 
+instead of the text shall be made by consensus. 
+  Rec. ITU-T A.25 (02/2016) 3 
+ 
+6.4 Copyright arrangements 
+The subject of modifications to texts and arrangements for royalty-free copyright licenses, including 
+the right to sub-license, for texts accepted by ITU-T, is a matter to be agreed upon between TSB 
+and the particular organization. However, the originating organization retains the copyright and 
+change control for its texts, unless explicitly relinquished. 
+7 Generic procedures for incorporating text of ITU-T documents in the documents of 
+other organizations 
+Organizations are strongly encouraged to reference approved ITU-T documents as appropriate to 
+progress their work. This clause addresses the process of incorporating text (in whole or in part, 
+with or without modification) from an ITU-T document in a document of another organization. This 
+process is expected to be rarely used. 
+7.1 Documents sent to other organizations 
+7.1.1 An organization may incorporate text (in whole or in part, with or without modification) 
+from a draft or approved ITU-T Recommendation (or of other documents produced by ITU-T), as 
+all or part of the text of its draft document. Organizations are strongly encouraged to incorporate 
+text without modification. 
+7.1.2 When an organization decides to accept ITU-T text, it notifies TSB about the actions taken 
+concerning this text. The use, acceptance or reproduction of such text by the qualified organization 
+is subject to the permission arrangements set out in clause 7.2 and to the copyright arrangements set 
+out in clause 7.3. 
+7.2 Permission arrangements 
+7.2.1 At the earliest possible moment, the organization will ensure that the TSB has provided a 
+written statement that it agrees to the distribution of the material for discussions within the 
+appropriate groups and possible use (in whole or in part, with or without modification) in any 
+documents of the organization. 
+7.2.2 Should the ITU decline to provide such statement or fail to do so, the incorporation shall 
+not be made. 
+7.3 Copyright arrangements 
+The subject of modifications to texts and arrangements for royalty-free copyright licenses, including 
+the right to sub-license, for texts accepted by qualified organizations and their publishers and others, 
+is a matter to be agreed upon between TSB and the particular organization. However, the ITU 
+retains the copyright and change control for its texts, unless explicitly relinquished. 
+  
+4 Rec. ITU-T A.25 (02/2016) 
+ 
+Bibliography 
+ 
+[b-ITU-T A.1] Recommendation ITU-T A.1 (2012), Working methods for study groups of the 
+ITU Telecommunication Standardization Sector (ITU-T). 
+  Rec. ITU-T A.25 (02/2016) 5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Environment and ICTs, climate change, e-waste, energy efficiency; construction, installation 
+and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2016 

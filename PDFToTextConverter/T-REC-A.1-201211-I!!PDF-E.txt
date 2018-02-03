@@ -1,0 +1,862 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.1
+(11/2012)  
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Working methods for study groups of the ITU 
+Telecommunication Standardization Sector 
+ 
+Recommendation  ITU-T  A.1 
+ 
+ 
+ 
+
+ 
+Recommendation ITU-T A.1 
+Working methods for study groups of the ITU Telecommunication 
+Standardization Sector 
+ 
+ 
+ 
+Summary 
+This Recommendation describes general work methods for ITU-T study groups. It provides 
+guidelines related to work methods, such as the conduct of meetings, preparation of studies, 
+management of study groups, Joint Coordination Groups, the role of Rapporteurs and the processing 
+of ITU-T contributions and temporary documents. 
+ 
+ 
+History 
+Edition Recommendation Approval Study Group 
+1.0 ITU-T A.1 1996-10-18 Assembly  
+2.0 ITU-T A.1 2000-10-06 Assembly  
+3.0 ITU-T A.1 2004-10-14 Assembly  
+4.0 ITU-T A.1 2006-07-07 TSAG  
+5.0 ITU-T A.1 2008-10-30 Assembly  
+6.0 ITU-T A.1 2012-11-29 Assembly  
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.1 (11/2012) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2013 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.1 (11/2012) 
+ 
+Table of Contents 
+ Page 
+1 Study groups and their relevant groups ........................................................................  1 
+1.1 Frequency of meetings ...................................................................................  1 
+1.2 Coordination of work .....................................................................................  1 
+1.3 Preparation of studies and meetings ...............................................................  2 
+1.4 Conduct of meetings .......................................................................................  2 
+1.5 Liaison statements ..........................................................................................  3 
+1.6 Correspondence activities ...............................................................................  4 
+1.7 Preparation of reports of study groups, working parties or joint working 
+parties, Recommendations and new Questions ..............................................  4 
+1.8 Definitions ......................................................................................................  5 
+2 Study group management .............................................................................................  6 
+2.1 Study group structure and distribution of work ..............................................  6 
+2.2 Joint coordination activities (JCAs) ...............................................................  7 
+2.3 The roles of rapporteurs ..................................................................................  10 
+3 Submission and processing of contributions ................................................................  13 
+3.1 Submission of contributions ...........................................................................  13 
+3.2 Processing of contributions ............................................................................  14 
+3.3 TDs .................................................................................................................  15 
+3.4 Electronic access ............................................................................................  15 
+Appendix I – Rapporteur progress report format .....................................................................  16 
+Annex A – Template to describe a proposed new Recommendation  in the work 
+programme ....................................................................................................................  17 
+ 
+ 
+  Rec. ITU-T A.1 (11/2012) iii 
+
+ 
+Recommendation ITU-T A.1 
+Working methods for study groups of the ITU Telecommunication 
+Standardization Sector 
+(1996; 2000; 2004; 2006; 2008; 2012) 
+1 Study groups and their relevant groups 
+1.1 Frequency of meetings 
+1.1.1 Study groups meet to facilitate the approval of Recommendations. Such meetings shall only 
+be held with the approval of the Director of the Telecommunication Standardization Bureau (TSB), 
+and with due consideration of the physical and budgetary capabilities of the ITU 
+Telecommunication Standardization Sector (ITU-T). To minimize the number of meetings required, 
+every effort should be made to resolve questions by correspondence (No. 245 of the ITU 
+Convention). 
+1.1.2 In the establishment of the work programme, the timetable of meetings must take into 
+account the time required for participating bodies (administrations of Member States and other duly 
+authorized entities) to react and prepare contributions. Meetings should not be held more frequently 
+than is necessary to make effective progress and should take into account TSB's capabilities to 
+provide the necessary documentation. A meeting scheduled so that its separation from a preceding 
+meeting, upon which it depends, is less than six months may incur the possibility of full 
+documentation from the previous meeting not being available. 
+1.1.3 Meetings of study groups having common interests or dealing with problems possessing 
+affinities should, if possible, be arranged so as to enable participating bodies to send one delegate or 
+representative to cover several meetings. As far as possible, the arrangement chosen should enable 
+the study groups meeting during the period to exchange any information they may require without 
+delay. Furthermore, it should enable specialists from all over the world in the same or related 
+subjects to have direct contacts with each other of benefit to their organizations. It should likewise 
+enable the specialists concerned to avoid leaving their home countries too often. 
+1.1.4 The timetable of meetings shall be prepared and communicated to participating bodies well 
+in advance (one year), to give time to study problems and submit contributions within the 
+prescribed time-limits and to give TSB time to distribute the contributions. In this way, study group 
+chairmen and delegates will be given the opportunity to consider the contributions in advance, thus 
+helping to make meetings more efficient and reduce their length. A study group chairman, in 
+conjunction with the Director, may schedule short additional study group or working party meetings 
+for the purpose of making the consent, determination or decision, as appropriate, on a draft new or 
+revised Recommendation. 
+1.1.5 Subject to physical and budgetary limitations and in consultation with the Director, the 
+work of the study groups should be on a continuous basis and dissociated from the interval between 
+WTSAs. 
+1.2 Coordination of work 
+1.2.1 A joint coordination activity (JCA) may be formed to coordinate work relating to more than 
+one study group. Its primary role is to harmonize planned work effort in terms of subject matter, 
+time-frames for meetings and publication goals (see clause 2.2).  
+  Rec. ITU-T A.1 (11/2012) 1 
+ 
+1.3 Preparation of studies and meetings 
+1.3.1 At the beginning of each study period, an organization proposal and an action plan for the 
+study period shall be prepared by each study group chairman with the help of TSB. The plan should 
+take into account any priorities and coordination arrangements, recommended by the 
+Telecommunication Standardization Advisory Group (TSAG) or decided by the World 
+Telecommunication Standardization Assembly (WTSA). 
+How the proposed action plan is implemented will depend upon the contributions received from the 
+members of ITU-T and the views expressed by participants in the meetings. 
+1.3.2 A collective letter with an agenda of the meeting, a draft work plan and a listing of the 
+Questions or proposals under the general areas of responsibility to be examined, shall be prepared 
+by TSB with the help of the chairman. 
+The work plan should state which items are to be studied on each day, but it must be regarded as 
+subject to change in the light of the rate at which work proceeds. Chairmen should try to follow it as 
+far as possible. 
+This collective letter should be received by bodies participating in the activities of particular ITU-T 
+study groups, as far as practicable, two months before the beginning of the meeting. The collective 
+letter shall include registration information for these bodies to indicate participation in the meeting. 
+Each Member State administration, Sector Member, Associate and regional or international 
+organization should send to TSB a list of its participants at least one month before the start of the 
+meeting. In the event that names cannot be provided, the expected number of participants should be 
+indicated. Such information will facilitate the registration process and the timely preparation of 
+registration materials. Individuals who attend the meeting without pre-registration may experience a 
+delay in receiving their documents. 
+If the meeting in question has not been previously planned and scheduled, a collective letter should 
+be received at least three months before the meeting. 
+1.3.3 If an insufficient number of contributions or notification of contributions has been 
+submitted, no meeting should be held. The decision whether to cancel a meeting or not shall be 
+taken by the Director, in agreement with the chairman of the study group or working party 
+concerned. 
+1.4 Conduct of meetings 
+1.4.1 The chairman shall direct the debates during the meeting, with the assistance of TSB. 
+1.4.2 The chairman is authorized to decide that there shall be no discussion on Questions on 
+which insufficient contributions have been received. 
+1.4.3 Questions which have not elicited any contributions should not be placed on the final 
+agenda of the meeting, and according to provisions of 7.4.1 of WTSA Resolution 1, may be deleted 
+if no contributions have been received for the previous two study group meetings. 
+1.4.4 Study groups and working parties may set up working teams (which should be as small as 
+possible and are subject to the normal rules of the study group or working party) during their 
+meetings, to study Questions allocated to those study groups and working parties. 
+1.4.5 For projects involving more than one study group, baseline documents may be prepared in 
+order to provide the basis for coordinated study among the various study groups. The term "baseline 
+document" refers to a document which contains the elements of common agreement at a given point 
+in time. 
+2 Rec. ITU-T A.1 (11/2012) 
+ 
+1.4.6 Chairmen will ask, during each meeting, whether anyone has knowledge of patents or 
+software copyrights, the use of which may be required to implement the Recommendation being 
+considered. The fact that the question was asked shall be recorded in the working party or study 
+group meeting report, along with any affirmative responses. 
+1.4.7 Study groups shall establish and maintain a work programme, which includes target dates 
+for consenting or determining each draft Recommendation. The work programme is available in a 
+database which is searchable from the study group website. For each work item under development, 
+the database contains the Recommendation number (or provisional mnemonic designation), the 
+title, scope, editor, timing, priority, identification of any liaison relationships, any editor assigned, 
+the location of the most recent text, the approval process, and the status for documents in the 
+approval process. The database is updated to reflect progress or completion of work, re-planning of 
+in-progress items, or addition of new work items. 
+The decision to add a new work item to the work programme should be documented in the report of 
+the meeting using the template in Annex A. Note that this may not be necessary to document the 
+continuation of existing work (e.g. an amendment or revision of an existing Recommendation). 
+A work item may be considered for discontinuation from the work programme if it has not given 
+rise to any contribution in the time interval of the previous two study group meetings. 
+1.5 Liaison statements 
+1.5.1 The following information shall be included in liaison statements prepared at study group, 
+working party or rapporteur group meetings. When necessary, between scheduled meetings, the 
+liaison statement may be prepared by an appropriate correspondence process and approved by the 
+study group chairman in consultation with the study group management team. 
+– List the appropriate Question numbers of the originating and destination study groups. 
+– Identify the study group, working party or rapporteur group meeting at which the liaison 
+statement was prepared. 
+– Include a concise title appropriate to the subject matter. If this is in reply to a liaison 
+statement, make this clear, e.g. "Reply to liaison statement from (source and date) 
+concerning ...". 
+– Identify the study group(s) and working party(s) (if known) or other standards organizations 
+to which it has been sent. (A liaison statement can be sent to more than one organization.) 
+– Indicate the level of approval, e.g. study group or working party, or state that the liaison 
+statement has been agreed at a rapporteur group meeting. 
+– Indicate if the liaison statement is sent for action or comment or information. (If sent to 
+more than one organization, indicate this for each one.) 
+– If action is requested, indicate the date by which a reply is required. 
+– Include the name and address of the contact person. 
+The text of the liaison statement should be concise and clear, using a minimum of jargon. 
+An example of the information required in a liaison statement is shown in Figure 1-1. 
+ 
+  Rec. ITU-T A.1 (11/2012) 3 
+ 
+QUESTIONS: 45/15, 3/4, 8/ITU-R SG11 
+SOURCE: ITU-T SG15, Rapporteur group for Q45/15 (London, 2-6 October 1997) 
+TITLE: Object Identifier Registration – Reply to liaison statement from WP 5/4  
+(Geneva, 5-9 February 1997) 
+_____________ 
+LIAISON STATEMENT 
+FOR ACTION TO: 
+ITU-T SG4 − WP 5/ 
+FOR COMMENT TO: 
+ 
+FOR INFORMATION 
+ITU-R SG11, ISO/IEC JTC 1/SC 6 
+TO: 
+APPROVAL: Agreed to at the rapporteur group meeting 
+  
+DEADLINE: Deadline for reply – 22 January 1998 
+CONTACT: John Jones, rapporteur for Q45/15 Tel: +1 576 980 9987 
+ ABC Company Fax: +1 576 980 9956 
+ Anytown, CA USA e-mail:  jj@abcco.com 
+Figure 1-1 – Example of the information required in a liaison statement 
+1.5.2 Liaison statements should be forwarded to the appropriate destinations as soon after the 
+meeting as possible. Copies of all liaison statements should also be sent to the chairmen of the study 
+groups and working parties involved for information and to TSB for processing. 
+1.6 Correspondence activities 
+Correspondence activities may be authorized to be conducted via e-mail between meetings. Each 
+correspondence activity should have specified terms of reference. A convener is appointed to 
+moderate the e-mail discussion and prepare a report to a subsequent meeting. A correspondence 
+activity should normally conclude no later than the contribution deadline of the meeting to which it 
+is expected to report. 
+1.7 Preparation of reports of study groups, working parties or joint working parties, 
+Recommendations and new Questions 
+1.7.1 A report on the work done during a meeting of a study group, working party or joint 
+working party shall be prepared by TSB. Reports of meetings not attended by TSB should be 
+prepared under the responsibility of the chairman of the meeting. This report should set out the 
+results of the meeting and the agreements reached in a condensed form and should identify the 
+points left to the next meeting for further study. The number of annexes to the report should be kept 
+to a strict minimum by means of cross-references to contributions, reports, etc., and references to 
+material in the documentation of a study group or working party. It would be desirable to have a 
+concise summary of contributions (or equivalent) considered by the meeting. 
+The report should concisely present the following: organization of work; references to and possible 
+summary of contributions and/or documents issued during a meeting; main results, including a 
+status of new and/or revised Recommendations consented, determined or under development; 
+directive for future work; planned meetings of working parties, sub-working parties and rapporteur 
+groups; and condensed liaison statements endorsed at the study group or working party level. The 
+table showing the status of Recommendations from the report is used to update the work 
+programme database (see clause 1.4.7). 
+4 Rec. ITU-T A.1 (11/2012) 
+ 
+1.7.2 To assist TSB in this task, the study group or working party may arrange for delegates to 
+draft some parts of the report. TSB should coordinate this drafting work. If necessary, the meeting 
+will set up an editorial group to improve the texts of draft Recommendations in the official 
+languages of the Union. 
+1.7.3 If possible, the report shall be submitted for approval before the end of the meeting; 
+otherwise, it shall be submitted to the chairman of the meeting for approval. 
+1.7.4 When existing and already translated ITU-T texts have been used for some parts of the 
+report, a copy of the report annotated with references to the original sources should also be sent to 
+TSB. If the report contains ITU-T figures, the ITU-T reference number should not be deleted even 
+if the figure has been modified. 
+1.7.5 Individual reports of meetings should be accessible online to appropriate users as soon as 
+electronic versions of these documents are available to TSB. 
+1.7.6 ITU-T participating bodies are authorized to transmit study group or working party reports 
+and documents to any experts they consider it expedient to consult, except where the study group or 
+working party concerned has specifically decided that its report, or a document, is to be treated as 
+confidential. 
+1.7.7 The report of a study group's first meeting in the study period shall include a list of all the 
+rapporteurs appointed. This list shall be updated, as required, in subsequent reports. 
+1.8 Definitions 
+This Recommendation defines the following terms: 
+1.8.1 Terms defined elsewhere 
+1.8.1.1 Question [WTSA Resolution 1 (Rev. Dubai 2012)]: Description of an area of work to be 
+studied, normally leading to the production of one or more new or revised Recommendations. 
+1.8.2 Terms defined in this Recommendation  
+1.8.2.1 amendment: An amendment to a Recommendation contains changes or additions to an 
+already published ITU-T Recommendation.  
+NOTE – An amendment is published by ITU-T as a separate document that contains primarily changes or 
+additions. If it forms an integral part of the Recommendation, approval of an amendment follows the same 
+approval procedures as for Recommendations; otherwise, it is agreed by the study group. 
+1.8.2.2 annex: An annex to a Recommendation contains material (e.g. technical detail or 
+explanation) which is necessary to its overall completeness and comprehensibility and is therefore 
+considered an integral part of the Recommendation.  
+NOTE 1 – As an annex is an integral part of the Recommendation, approval of an annex follows the same 
+approval procedures as Recommendations. 
+NOTE 2 – In common ITU-T | ISO/IEC texts, this element is called an "integral annex". 
+1.8.2.3 appendix: An appendix to a Recommendation contains material which is supplementary to 
+and associated with the subject matter of the Recommendation but is not essential to its 
+completeness or comprehensibility.  
+NOTE 1 – An appendix is not considered to be an integral part of the Recommendation and thus it does not 
+require the same approval procedures as Recommendations; agreement by the study group is sufficient.  
+NOTE 2 – In common ITU-T | ISO/IEC texts, this element is called a "non-integral annex". 
+1.8.2.4 clause: The word clause shall be used to denote single-digit or multiple-digit numbered 
+text passages. 
+  Rec. ITU-T A.1 (11/2012) 5 
+ 
+1.8.2.5 corrigendum: A corrigendum to a Recommendation contains corrections to an already 
+published ITU-T Recommendation. A corrigendum is published by ITU-T as a separate document 
+that contains only corrections. TSB may correct obvious errors by issuing a corrigendum with the 
+concurrence of the study group chairman; otherwise, approval of a corrigendum follows the same 
+approval procedures as Recommendations. 
+NOTE – In common ITU-T | ISO/IEC texts, this element is called a "technical corrigendum". 
+1.8.2.6 implementers' guide: An implementers' guide is a document which records all identified 
+defects (e.g. typographical errors, editorial errors, ambiguities, omissions or inconsistencies, and 
+technical errors) associated with a Recommendation or a set of Recommendations and their status 
+of correction, from their identification to final resolution.  
+NOTE – An implementers' guide is issued by ITU-T following agreement by a study group, or following 
+agreement by a working party with concurrence of the study group chairman. Typically, defect corrections 
+are first collected in an implementers' guide and, at a time deemed appropriate by the study group, they are 
+used to produce a corrigendum or are included as revisions to a Recommendation. 
+1.8.2.7 normative reference: Another document that contains provisions which, through 
+reference to it, constitute provisions to the referring document. 
+1.8.2.8 supplement: A document which contains material which is supplementary to and 
+associated with the subject matter of one or more Recommendations but which is not essential to 
+their completeness or understanding and implementation. 
+NOTE – Recommendation ITU-T A.13 deals with the subject of supplements to ITU-T Recommendations. 
+1.8.2.9 text: The "text" of Recommendations is understood in a broad sense. It may contain 
+printed or coded text and/or data (such as test images, graphics, software, etc.). 
+1.8.2.10 work item: An assigned piece of work, which is identifiable with a Question and which 
+has specific or general objectives, which will result in a product, usually a Recommendation, for 
+publication by ITU-T. 
+1.8.2.11 work programme: A list of work items that are owned by a study group. 
+2 Study group management 
+2.1 Study group structure and distribution of work 
+2.1.1 Study group chairmen shall be responsible for the establishment of an appropriate structure 
+for the distribution of work and the selection of an appropriate team of working party chairmen and 
+shall take into account the advice provided by the members of the study group as well as the proven 
+competence, both technical and managerial, of the candidates. 
+2.1.2 A study group may entrust a Question, a group of Questions or the maintenance of some 
+existing Recommendations within its general area of responsibility to a working party. 
+2.1.3 Where the scope of the work is considerable, a study group may decide to further divide the 
+tasks assigned to a working party to sub-working parties. 
+2.1.4 Working parties and sub-working parties should be set up only after thorough consideration 
+of the Questions. Proliferation of working parties, sub-working parties or any other subgroups 
+should be avoided. 
+6 Rec. ITU-T A.1 (11/2012) 
+ 
+2.1.5 A study group may exceptionally, by agreement with other relevant study group(s) and 
+taking account of any advice from TSAG and the Director of TSB, entrust a joint working party 
+with Questions or parts of Questions of common interest to the study groups concerned. This study 
+group shall act as the lead study group for the joint working party and shall coordinate and have 
+responsibility for the work concerned. The contributions used as a basis for discussion in the joint 
+working party shall be sent exclusively to those registered in the joint working party. Only the 
+reports shall be sent to all participating bodies of the study groups concerned. 
+2.1.6 As the promotion of study group activities is an essential element in any ITU-T marketing 
+plan, each study group chairman, supported by other study group leaders and subject matter experts, 
+is encouraged to establish, maintain and participate in a promotion plan, coordinated with TSB, 
+whose emphasis is the dissemination of study group information to the telecommunication 
+community. Such study group information dissemination should cover, but is not limited to, new 
+work initiatives and significant accomplishments regarding technologies and technical solutions. 
+2.2 Joint coordination activities (JCAs) 
+2.2.1 A joint coordination activity (JCA) is a tool for management of the work programme of 
+ITU-T when there is a need to address a broad subject covering the area of competence of more 
+than one study group. A JCA may help to coordinate the planned work effort in terms of subject 
+matter, time-frames for meetings, collocated meetings where necessary and publication goals 
+including, where appropriate, release planning of the resulting Recommendations. 
+The establishment of a JCA aims mainly at improving coordination and planning. The work itself 
+will continue to be conducted by the relevant study groups and the results are subject to the normal 
+approval processes within each study group. A JCA may identify technical and strategic issues 
+within the scope of its coordination role, but will not perform technical studies nor write 
+Recommendations. A JCA may also address coordination of activities with recognized standards 
+development organizations (SDOs) and forums, including periodic discussion of work plans and 
+schedules of deliverables. The study groups take JCA suggestions into consideration as they carry 
+out their work. 
+2.2.2 Any group (study group or TSAG) may propose that a JCA be established. The proposal to 
+establish a JCA should first be discussed within the proposing group's management team, then 
+among the relevant study group chairmen and the TSAG chairman. Discussions may be held with 
+external SDOs and forum leaders. 
+If the study group proposing the establishment of the JCA has been designated as the lead study 
+group by WTSA or TSAG according to Section 2 of WTSA Resolution 1, and if the subject is under 
+their responsibility and mandate as described in WTSA Resolution 2, then a study group may 
+establish a JCA on its own authority. If a study group meeting is pending within the next two 
+1
+months, then an electronic notification proposing the JCA, including the terms of reference 
+(including scope, objectives and anticipated lifetime) and the chairman, is published four weeks 
+prior to the study group meeting, giving opportunity for the membership to give their position at the 
+meeting. If this is done at least four weeks prior to the study group meeting, following the 
+resolution of any comments, the JCA may be established by the study group by consensus at its 
+meeting. If a study group meeting is not pending within the next two months, then an electronic 
+notification as above is sent for the membership to give their position by electronic response. If the 
+notification is sent less than four weeks before the study group meeting, no decision is taken at the 
+study group meeting; the decision may be taken four weeks after the notification, excluding the 
+meeting time. If necessary, the proposal is adjusted taking into consideration comments received 
+and made available to the study group electronically for decision with a further four-week interval. 
+____________________ 
+1
+  This electronic notification should be sent to the general e-mail reflector for the proposing study group 
+and should also be a temporary document to the next meeting of the study group. 
+  Rec. ITU-T A.1 (11/2012) 7 
+ 
+If there are no substantive comments, the JCA is considered approved. TSAG will be informed for 
+review, possible comment, and endorsement. TSAG may consider the terms of reference of the JCA 
+in the context of the overall work programme of ITU-T and may provide comments to modify the 
+terms of reference. 
+Where the lead study group has not yet been designated by WTSA or TSAG for the subject, or 
+where the subject for the JCA is a broad subject potentially falling under the responsibility and 
+mandate of a number of study groups as described in WTSA Resolution 2, then the proposal has to 
+be made available to the membership for consideration. If a TSAG meeting is pending within the 
+2
+next two months, then an electronic notification proposing the JCA, including the terms of 
+reference (including scope, objectives and anticipated lifetime) and the chairman, is published four 
+weeks prior to the TSAG meeting, giving opportunity for the membership to give their position at 
+the meeting. If this is done at least four weeks prior to the TSAG meeting, following the resolution 
+of any comments, the JCA may be established by TSAG by consensus at its meeting. If a TSAG 
+meeting is not pending within the next two months, then an electronic notification as above is sent 
+for the membership to give their position by electronic response. If the notification is sent less than 
+four weeks before the TSAG meeting, no decision is taken at the TSAG meeting; the decision may 
+be taken four weeks after the notification, excluding the meeting time. If necessary, the proposal is 
+adjusted taking into consideration comments received and made available to the membership 
+electronically for decision with a further four-week interval. If there are no substantive comments, 
+the JCA is considered approved. The decision includes the designation of the group responsible (a 
+study group or TSAG), the terms of reference (including scope, objectives and anticipated lifetime) 
+and the chairman.  
+Figure 2-1 provides a schematic of the alternatives in proposing and approving the creation of a 
+JCA. 
+____________________ 
+2
+  This electronic notification should be sent to the general e-mail reflector for the potentially involved study 
+groups and TSAG and should also be a temporary document to the next meeting of TSAG. 
+8 Rec. ITU-T A.1 (11/2012) 
+ 
+ 
+Figure 2-1 – Alternatives in proposing and approving the creation of a JCA 
+2.2.3 JCAs are open, but (to restrict their size) should primarily be limited to official 
+representatives from the relevant study groups that are responsible for work covered by the scope of 
+the JCA. A JCA may also include invited experts and invited representatives of other SDOs and 
+forums, as appropriate. All participants should confine inputs to a JCA to the purpose of the JCA. 
+2.2.4 The establishment of a JCA is to be announced in a TSB circular, which should include the 
+terms of reference of the JCA, the chairman of the JCA, and the study group responsible for the 
+JCA. 
+2.2.5 JCAs should work primarily by correspondence and electronic meetings. Any physical 
+meeting considered necessary should be convened by the chairman of the JCA. Physical meetings 
+should be supported by conferencing capabilities where possible, and both physical and electronic 
+meetings should be scheduled as far as practicable at times that will provide maximum opportunity 
+for broad participation. It is anticipated that physical meetings will be in conjunction with the 
+involved study group meetings (in which case it is reflected in the collective letter for that study 
+group) as far as practicable, but if a separate meeting is to be held, it is to be announced at least four 
+weeks in advance by an (electronic) collective invitation letter. 
+2.2.6 Inputs to the work of a JCA should be sent to the JCA chairman and to the concerned TSB 
+counsellor, and the latter will make these available to the members of the JCA. 
+  Rec. ITU-T A.1 (11/2012) 9 
+ 
+2.2.7 JCAs may submit proposals to the relevant study groups to achieve alignment in the 
+development of related Recommendations and other deliverables by the respective study groups. A 
+JCA may also issue liaison statements. 
+2.2.8 JCA input and output documents and reports are made available to the ITU-T membership. 
+Reports are issued after each JCA meeting. TSAG may monitor JCA activities through these 
+reports. 
+2.2.9 TSB will provide support for a JCA, within available resource limits. 
+2.2.10 A JCA may be terminated at any time if the involved study groups agree that the JCA is no 
+longer required. A proposal to do so, including justification, may be submitted by any study group 
+involved or by TSAG, and examined for decision by the study group responsible for the JCA, after 
+consulting the involved study groups and TSAG (via electronic means, if a TSAG meeting is not 
+pending in the near future). A JCA may continue across a WTSA but will automatically be 
+reviewed at the first TSAG meeting following the WTSA. A specific decision must be taken on the 
+continuation of the JCA, potentially with adjusted terms of reference. 
+2.2.11 A JCA may propose, in justified cases and on an exceptional basis, the establishment of a 
+global standards initiative (GSI) in the area of work covered by the JCA, where it is considered 
+necessary to provide a visible focus for the work. A GSI is not a working entity but is a name for 
+the package of work being conducted through collocated meetings of the involved study groups and 
+rapporteur groups under the umbrella of a coordinated work plan managed by the JCA. The 
+proposal, which includes the terms of reference, a justification and a scheduled lifetime of the GSI, 
+should be developed by the study group leading the JCA, in consultation with the chairmen of the 
+concerned study groups, and submitted to TSAG for approval. A GSI automatically stops at the end 
+of its scheduled lifetime unless there is a decision by TSAG to prolong it. A GSI may continue 
+across a WTSA but will automatically be reviewed at the first TSAG meeting following the WTSA. 
+A specific decision must be taken on the continuation of the GSI, potentially with adjusted terms of 
+reference. 
+2.2.12 If a GSI is established in the area of work covered by a JCA, a technical and strategic 
+review (TSR) process may be set up by the JCA, if deemed necessary, to operate at every GSI 
+event. The TSR process addresses specific issues within the broader coordination provided by the 
+JCA, and should ensure that the JCA is made aware of any issues requiring guidance or additional 
+attention. If the JCA creates a TSR process, the JCA will choose a TSR coordinator to ensure that 
+the TSR process proactively examines issues, and adequately addresses any concerns of the GSI 
+event participants, for example, regarding work allocation. 
+2.3 The roles of rapporteurs 
+2.3.1 The chairmen of study groups and working parties (including joint working parties) are 
+encouraged to make most effective use of the limited resources available by delegating 
+responsibility to rapporteurs for the detailed study of individual Questions or small groups of related 
+Questions, parts of Questions, terminology, or amendment of existing Recommendations. Review 
+and approval of the results reside with the study group or working party. 
+2.3.2 Liaison between ITU-T study groups or with other organizations can be facilitated by the 
+rapporteurs or by the appointment of liaison rapporteurs. 
+2.3.3 The following guidelines should be used as a basis within each study group or working 
+party to define the roles of rapporteurs, associate rapporteurs and liaison rapporteurs; however, they 
+may be adjusted following careful deliberation of the need for change and with the approval of the 
+relevant study group or working party. 
+10 Rec. ITU-T A.1 (11/2012) 
+ 
+2.3.3.1 Specific persons should be appointed as rapporteurs to be responsible for progressing the 
+study of those Questions, or specific study topics, that are felt to be likely to benefit from such 
+appointments. The same person may be appointed as the rapporteur for more than one Question, or 
+topic, particularly if the Questions, parts of Questions, terminology, or amendment of existing 
+Recommendations concerned are closely related.  
+2.3.3.2 Rapporteurs may be appointed (and their appointments may be terminated) at any time with 
+the agreement of the competent working party, or of the study group, where the Question(s) are not 
+allocated to a working party. The term of the appointment relates to the work that needs to be done 
+rather than to the interval between WTSAs. If the related Question is modified by WTSA, for 
+continuity purposes, the rapporteur may, at the discretion of the new study group chairman, 
+continue to progress the relevant work until the next meeting of the study group. 
+2.3.3.3 Where the work so requires, a rapporteur may propose the appointment of one or more 
+associate rapporteurs, liaison rapporteurs or editors, whose appointments should then be endorsed 
+by the relevant working party (or study group). Again these appointments may be made or 
+terminated at any time in accordance with the work requirements. An associate rapporteur assists 
+the rapporteur, either in general or to deal with a particular point or area of study in a Question. A 
+liaison rapporteur assists the rapporteur by ensuring there is effective liaison with other groups, by 
+attending meetings of other designated groups to advise and assist in an official capacity, by 
+correspondence with such groups or by any other means considered appropriate by the rapporteur. 
+In the event that a liaison rapporteur is not appointed, the responsibility to ensure effective liaison 
+resides with the rapporteur. The editor assists the rapporteur in the preparation of the text of draft 
+Recommendations or other publications. 
+2.3.3.4 Rapporteurs, and their associate and liaison rapporteurs as well as the editors, play an 
+indispensable role in coordinating increasingly detailed and often highly technical study. 
+Consequently, their appointment should be primarily based on their expertise in the subject to be 
+studied. 
+2.3.3.5 As a general principle, work by correspondence (including electronic messaging and 
+telephone communications) is preferred and the number of meetings should be kept to a strict 
+minimum, consistent with the scale and milestones agreed by the parent group. Where possible, 
+meetings in related areas of study or within a work area covered by a JCA should be coordinated. In 
+any case, this work should proceed in a continuous fashion between meetings of the parent group. 
+2.3.3.6 The rapporteur's responsibilities are: 
+– to coordinate the detailed study in accordance with guidelines established at working party 
+(or study group) level; 
+– to the extent authorized by the study group, to act as a contact point and source of expertise 
+for the allocated study topic with other ITU-T, ITU Radiocommunication Sector (ITU-R) 
+and ITU Telecommunication Development Sector (ITU-D) study groups, other rapporteurs, 
+other international organizations and other standards organizations (where appropriate) and 
+TSB; 
+– to adopt methods of work (correspondence including the use of the TSB EDH system, 
+meetings of experts, etc.) as considered appropriate for the task; 
+– in consultation with the collaborators for the study topic, to review and update the work 
+programme, which should be approved and reviewed periodically by the parent group (see 
+clause 1.4.7); 
+– to ensure that the parent working party (or study group) is kept well informed of the 
+progress of the study, particularly of work proceeding by correspondence or otherwise 
+outside of the normal study group and working party meetings; 
+  Rec. ITU-T A.1 (11/2012) 11 
+ 
+– in particular, to submit a progress report (e.g. of a rapporteur's meeting or editor's work) to 
+each of the parent group's meetings (see suggested format in Appendix II), in the form of a 
+temporary document to be submitted as soon as possible and not later than the first day of 
+the meeting; when such a temporary document contains draft new or revised 
+Recommendations, then it is encouraged, where possible, that it be submitted at least six 
+weeks prior to the parent group's meeting; 
+– to give the parent working party or study group and TSB adequate advance notice of the 
+intention to hold any meetings of experts (see clause 2.3.3.10 below), particularly where 
+such meetings are not included in the original programme of work; 
+– to establish a group of active "collaborators" from the working party (or study group) where 
+appropriate, with an updated list of those collaborators being given to TSB at each working 
+party meeting; 
+– to delegate the relevant functions from the list above to associate rapporteurs and/or liaison 
+rapporteurs, as necessary. 
+2.3.3.7 The basic goal of each rapporteur is to assist the study group or working party in 
+developing new and revised Recommendations to meet changing requirements in 
+telecommunication techniques and services. However, it must be clearly understood that 
+rapporteurs should not feel under any obligation to produce such texts unless a thorough study of 
+the Question reveals a clear need for them. If it turns out that this is not the case, the work should be 
+concluded with a simple report to the parent group establishing that fact. 
+2.3.3.8  Rapporteurs are responsible for the quality of their texts, submitted by the study group for 
+publication. They shall be involved in the final review of that text prior to it being submitted to the 
+publication process. This responsibility extends only to text in the original language and should take 
+into account applicable time constraints. (See Recommendation ITU-T A.11 on the publication of 
+ITU-T Recommendations.) 
+2.3.3.9  Rapporteurs should normally base any draft new or substantially revised Recommendations 
+on written contribution(s) from ITU-T members. 
+2.3.3.10  In conjunction with their work planning, rapporteurs must give advance notice of any 
+meetings they arrange, not only to the collaborators on their Question or project, but also to the 
+study group (see clause 2.3.3.11) and to TSB. TSB is not required to circulate convening collective 
+letters for meetings below working party level. TSB will post a convening letter for rapporteur 
+meetings (using a TSB-defined template), normally at least two months prior to the meeting, on the 
+study group webpage, as provided by the study group. 
+2.3.3.11  The intention to hold rapporteur meetings, along with details of the issues to be studied, 
+should be agreed in principle and publicized with as much notice as possible (normally at least two 
+months) at study group or working party meetings (for inclusion in their reports) and via the study 
+group webpage, for example. Not only should confirmation of the date and place of any meeting 
+normally be provided to the collaborators (and any other ITU-T members who have indicated an 
+interest in attending or submitting a contribution to the meeting), to the relevant working party 
+chairman and to TSB at least two months prior to the meeting, but also visa support should be 
+provided by the meeting host. 
+2.3.3.12  Rapporteurs should prepare a meeting report for each rapporteur meeting held and 
+submit it as a temporary document to the next study group or working party meeting. See clause 3.3 
+for submission and processing of TDs. 
+This report should include the date, venue and chairman, an attendance list with affiliations, the 
+agenda of the meeting, a summary of technical inputs, a summary of results and the liaison 
+statements sent to other organizations. 
+12 Rec. ITU-T A.1 (11/2012) 
+ 
+Rapporteurs will ask, during each meeting, whether anyone has knowledge of patents or software 
+copyrights, the use of which may be required to implement the Recommendation being considered. 
+The fact that the question was asked shall be recorded in the meeting report, along with any 
+affirmative responses. 
+2.3.3.13  Rapporteur meetings, as such, should not be held during working party or study group 
+meetings. However, rapporteurs may be called upon to chair those portions of working party or 
+study group meetings that deal with their particular area of expertise. In these cases, rapporteurs 
+must recognize that the rules of the working party and study group meetings then apply and the 
+more relaxed rules described above, particularly those that relate to document approvals and 
+submission deadlines, would not apply. 
+2.3.3.14  The parent working party (or study group) must define clear terms of reference for each 
+rapporteur. The general direction to be followed in the study should be discussed, reviewed as 
+necessary and agreed periodically by the parent group. 
+2.3.3.15  When meetings are arranged to be held outside ITU premises, participants should not 
+be charged for meeting facilities, unless agreed in advance by the study group. Meeting charges 
+should be an exceptional case and only done if, for example, the study group is of the opinion that a 
+meeting charge is necessary for the work to proceed properly. However, no participant should be 
+excluded from participation if he or she is unwilling to pay the charge. Additional services offered 
+by the host shall be voluntary, and there shall be no obligation on any of the participants resulting 
+from these additional services. 
+3 Submission and processing of contributions 
+3.1 Submission of contributions 
+3.1.1 Member States and other duly authorized entities registered with a study group or its 
+relevant group should submit their contributions to current studies via electronic means, in 
+accordance with guidance from the Director of TSB (see Recommendation ITU-T A.2, clause 2). 
+3.1.2  Chairmen and vice-chairmen of study groups and working parties may at any time submit 
+inputs as TDs, including, in particular, proposals likely to accelerate the debates; see clause 3.3 for 
+submission and processing of TDs.  
+3.1.3 These contributions shall contain comments or results of experiments and proposals 
+designed to further the studies to which they relate. 
+3.1.4 Contributors are reminded, when submitting contributions, that early disclosure of patent 
+information is desired, as contained in the statement on Common Patent Policy for 
+ITU-T/ITU-R/ISO/IEC (available at the ITU-T website). Patent declarations are to be made using 
+the "Patent Statement and Licensing Declaration Form for ITU-T/ITU-R Recommendation  │ 
+ISO/IEC Deliverable" available at the ITU-T website. See also clause 3.1.5 below. 
+3.1.5 General Patent Statement and Licensing Declaration: Any ITU Member State or ITU-T 
+Sector Member or Associate may submit a general patent statement and licensing declaration using 
+the form available at the ITU-T website. The purpose of this form is to give patent holders the 
+voluntary option of making a general licensing declaration relative to patented material contained in 
+any of their contributions. Specifically, the submitter of the licensing declaration declares its 
+willingness to license, in case part(s) or all of any proposals contained in contributions submitted by 
+the organization are included in ITU-T Recommendation(s) and the included part(s) contain items 
+that have been patented or for which patent applications have been filed and whose use would be 
+required to implement ITU-T Recommendation(s). 
+  Rec. ITU-T A.1 (11/2012) 13 
+ 
+The general patent statement and licensing declaration is not a replacement for the individual (per 
+Recommendation) patent statement and licensing declaration but is expected to improve 
+responsiveness and early disclosure of the patent holder's compliance with the Common Patent 
+Policy for ITU-T/ ITU-R/ISO/IEC. 
+3.1.6 Material such as text, diagrams, etc., submitted as a contribution to the work of ITU-T is 
+presumed by ITU to have no restrictions in order to permit the normal distribution of this material 
+for discussions within the appropriate groups and possible use, in whole or in part, in any resulting 
+ITU-T Recommendations that are published. By submitting a contribution to ITU-T, authors 
+acknowledge this condition of submission. In addition, authors may state any specific conditions on 
+other uses of their contribution. 
+3.1.7 A contributor submitting software for incorporation in the draft Recommendation is 
+required to submit a software copyright statement and licensing declaration form available at the 
+ITU-T website. The form must be provided to TSB at the same time that the contributor submits the 
+software. 
+3.1.8 Contributions that are to be considered at a study group or working party meeting shall 
+reach TSB at least twelve calendar days before the meeting. 
+3.2 Processing of contributions 
+3.2.1 Contributions received at least two months before a meeting may be translated (see clause 
+3.2.2 below) and will be posted in the original and, if applicable, in translated languages, on the web 
+as soon as practicable after they are received. They will be printed and distributed at the beginning 
+of the meeting only to the participants present who request paper copies. 
+3.2.2 If a chairman, in agreement with the participants of his study group (or working party), 
+states that his study group (or working party) is willing to use documents in the original language, 
+no translations will be made. 
+3.2.3 Contributions received by the Director less than two months but not less than twelve 
+calendar days before the date set for the opening of a meeting cannot be translated. 
+3.2.4 Contributions should be posted on the web no more than three working days after they are 
+received by the secretariat. 
+3.2.5 Contributions received by the Director less than twelve calendar days before the meeting 
+will not appear on the agenda of the meeting, will not be distributed and will be held for the next 
+meeting. Contributions judged to be of extreme importance may be admitted by the Director at 
+shorter notice. The final decision as to their consideration by the meeting shall be taken by the study 
+group (or working party). 
+3.2.6 The Director should insist that contributors follow the rules established for the presentation 
+and form of documents set out in Recommendation ITU-T A.2, and the timing given in clause 3.1.7. 
+A reminder should be sent out by the Director whenever appropriate. 
+3.2.7 The Director, with the agreement of the study group chairman, may return to the 
+contributor any document that does not comply with the general directives set out in 
+Recommendation ITU-T A.2, so that it may be brought into line with those directives. 
+3.2.8 Contributions shall not be included in reports as annexes, but should be referenced as 
+needed. 
+14 Rec. ITU-T A.1 (11/2012) 
+ 
+3.2.9 Contributions should, as far as possible, be submitted to a single study group. If, however, a 
+participating body submits a contribution that it believes is of interest to several study groups, it 
+should identify the study group primarily concerned; a single sheet giving the title of the 
+contribution, its source and a summary of its contents will be issued to the other study groups. This 
+single sheet will be numbered in the series of contributions of each study group to which it is 
+issued. 
+3.3 TDs 
+3.3.1 TDs should be provided to TSB in electronic format. TSB shall post electronically those 
+TDs submitted as electronic files as soon as they become available; those submitted as paper copies 
+will be posted as soon as practicable. 
+3.3.2 Extracts from reports of other study group meetings or from reports of chairmen, 
+rapporteurs or drafting groups shall be published as TDs. They will be printed and distributed 
+during the meeting only to the participants present who request paper copies. 
+3.3.3 TDs input before the start of the study group or working party meeting, including 
+documents from the ITU secretariat, should be posted on the relevant page of the website not later 
+than three working days from the date on which they are received by the secretariat, to ensure their 
+availability not later than seven calendar days before the start of the meeting. This deadline shall not 
+extend to administrative documents or reports on events that have taken place less than 21 calendar 
+days before the start of the meeting, nor to proposals from Chairmen and convenors of ad hoc 
+groups, compilations of proposals prepared by chairmen or the secretariat, or documents 
+specifically requested by the meeting. Reports on events that have taken place less than 21 calendar 
+days before the start of the meeting should normally be posted on the relevant page of the website 
+not later than two calendar days before the beginning of the discussion of the item in question at the 
+meeting, unless otherwise agreed by the meeting. 
+3.3.4 TDs containing extracts from reports of other study group or working party meetings shall 
+not be reissued by TSB as contributions, since they have usually served their purpose at the meeting 
+and some relevant parts may already have been included in the report of the meeting. 
+3.3.5 TDs can be produced during the meeting. 
+3.3.6 TDs will be printed and distributed at the beginning of the meeting (and during the 
+meeting) only to the participants present who request paper copies. 
+3.4 Electronic access 
+3.4.1 TSB will post electronically all documents (e.g. contributions, TDs (including liaison 
+statements)) as soon as electronic versions of these documents are available. Appropriate search 
+facilities for posted documents should be provided. 
+ 
+ 
+  
+  Rec. ITU-T A.1 (11/2012) 15 
+ 
+Appendix I 
+ 
+Rapporteur progress report format 
+(This appendix does not form an integral part of this Recommendation.) 
+The following format is recommended for the progress reports of rapporteurs to enable a maximum 
+transfer of information to all concerned: 
+a) brief summary of contents of report; 
+b) conclusions or Recommendations sought to be endorsed; 
+c) status of work with reference to work plan, including baseline document if available; 
+d) draft new or draft revised Recommendations; 
+e) draft liaison in response to or requesting action by other study groups or organizations; 
+f) reference to contributions considered part of assigned study and summary of contributions 
+considered at rapporteur group meetings (see Note); 
+g) reference to submissions attributed to collaborators of other organizations; 
+h) major issues remaining for resolution and draft agenda of future approved meeting, if any; 
+i) response to question on knowledge of patents; 
+j) list of attendees at all meetings held since last progress report. 
+A meeting report shall clearly indicate in its title the Question number, meeting venue and meeting 
+date. In general, the title shall be of the form "Rapporteur Report Qx/x". 
+Any draft Recommendations produced shall be presented as separate TDs (one document per 
+Recommendation). The title of the Temporary Document shall be of the form "Draft new 
+Recommendation ITU-T X.x: abc", where "abc" stands for the title of the draft Recommendation, or 
+"Draft revised Recommendation ITU-T X.x: abc", or "Draft Amendment 1 to Recommendation 
+ITU-T X.x: abc", etc. 
+A progress report shall not be used as a vehicle to violate the rules concerning the submission of 
+contributions that are inappropriate to the assigned study task. 
+NOTE − The progress report may make reference to the meeting reports (see clause 2.3.3.12) in order to 
+avoid duplication of information. 
+  
+16 Rec. ITU-T A.1 (11/2012) 
+ 
+Annex A 
+ 
+Template to describe a proposed new Recommendation  
+in the work programme 
+(This annex forms an integral part of this Recommendation.) 
+ 
+Question:  / Proposed new ITU-T Recommendation <Meeting date> 
+Reference Recommendation ITU-T <X.xxx> "Title" 
+and title: 
+<C nnn> or <TD nnnn> <Month-Year> 
+Base text: Timing: 
+Editor(s): <Name, membership, e-mail address> Approval <AAP or TAP> 
+process: 
+Scope (defines the intent or object of the Recommendation and the aspects covered, thereby indicating the limits of its 
+applicability): 
+ 
+Summary (provides a brief overview of the purpose and contents of the Recommendation, thus permitting readers to judge 
+its usefulness for their work): 
+ 
+Relations to ITU-T Recommendations or to other standards (approved or under development): 
+ 
+Liaisons with other study groups or with other standards bodies: 
+ 
+Supporting members that are committing to contributing actively to the work item: 
+<Member States, Sector Members, Associates, Academia> 
+ 
+  Rec. ITU-T A.1 (11/2012) 17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2013 

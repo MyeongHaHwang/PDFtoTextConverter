@@ -1,0 +1,246 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.11
+(11/2012)  
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Publication of ITU-T Recommendations and 
+World Telecommunication Standardization 
+Assembly proceedings 
+ 
+Recommendation  ITU-T  A.11 
+ 
+ 
+ 
+
+ 
+Recommendation ITU-T A.11 
+Publication of ITU-T Recommendations and World Telecommunication 
+Standardization Assembly proceedings 
+ 
+ 
+ 
+Summary 
+This Recommendation provides information on the procedures to be followed for publication of 
+ITU-T Recommendations and the results of WTSAs. 
+ 
+ 
+History 
+Edition Recommendation Approval Study Group 
+1.0 ITU-T A.11 2000-10-06 Assembly  
+2.0 ITU-T A.11 2004-10-14 Assembly  
+3.0 ITU-T A.11 2008-10-30 Assembly  
+4.0 ITU-T A.11 2012-11-30 Assembly  
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.11 (11/2012) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2013 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.11 (11/2012) 
+ 
+Table of Contents 
+ Page 
+1 Introduction ..................................................................................................................  1 
+2 Publication of Recommendations .................................................................................  1 
+3 Publication of WTSA proceedings ...............................................................................  1 
+4 Associated activities .....................................................................................................  2 
+5 Relation with the Council .............................................................................................  2 
+Annex A – Guidelines on publication of ITU-T Recommendations .......................................  3 
+ 
+ 
+ 
+  Rec. ITU-T A.11 (11/2012) iii 
+
+ 
+Recommendation ITU-T A.11 
+Publication of ITU-T Recommendations and World Telecommunication 
+Standardization Assembly proceedings 
+(2000; 2004; 2008; 2012) 
+1 Introduction 
+Under No. 98 of the ITU Convention, the Secretary-General is charged with the task of publishing 
+Recommendations, and Recommendation ITU-T A.12 of the ITU Telecommunication 
+Standardization Sector (ITU-T) sets out the identification and layout of ITU-T Recommendations. 
+In addition to the publication of ITU-T Recommendations, the procedures for publishing the 
+proceedings of the World Telecommunication Standardization Assembly (WTSA) are specified 
+below. 
+It should be noted that although the designation "CCITT" has not been applied to new publications 
+for some time, references to CCITT and ITU-T Recommendations are contained in numerous legal 
+documents throughout the world. 
+2 Publication of Recommendations 
+2.1 Each new and revised Recommendation should be made available to the public as soon as 
+practicable after it has been approved, and in each language as soon as it is available (see Annex A). 
+2.2 Each new and revised Recommendation should be added to a directly accessible database 
+of ITU-T Recommendations. 
+2.3 The collection of approved Recommendations should also be published on an appropriate 
+distribution medium. 
+2.4 Adequate indexing should be provided on all media. 
+2.5 The current status of each Recommendation in the complete range of Recommendations, 
+including those approved by CCITT prior to 1993, should be accessible online. 
+3 Publication of WTSA proceedings 
+3.1 To provide a record of the proceedings of each assembly, an ITU-T Book should be 
+published with the contents restricted to the following in principle: 
+– Resolutions and Opinions adopted by the assembly; 
+– Recommendations on the organization of the work of ITU-T (A-series); 
+– a list of the study groups, the advisory group and any other groups established or 
+maintained by the assembly, with their titles and general areas of work; 
+– titles of the Questions (continuing or newly approved for study) and their allocation; 
+– reports of the committees of the assembly. 
+NOTE – The list of participants and list of documents of the assembly may be provided in the book, or 
+pointers may be provided as to where the online list of participants and the online list of documents of the 
+assembly may be found. 
+3.2 Resolutions and ITU-T A-series Recommendations should also be published individually in 
+electronic form. 
+  Rec. ITU-T A.11 (11/2012) 1 
+ 
+3.3 The colour of the cover of the ITU-T Book recording the results of WTSA will rotate 
+successively through the colours of previous books in their chronological order, i.e. white, green, 
+orange, yellow, red and blue. 
+4 Associated activities 
+4.1 The Director of the Telecommunication Standardization Bureau (TSB) should observe the 
+annexed guidelines (see Annex A) when managing the continuing process of publishing 
+Recommendations during the upcoming study period. 
+4.2 The Director of TSB should report to the next WTSA and to the intervening meetings of 
+TSAG on any difficulties encountered in the timely publication of texts, with proposals for remedial 
+action. 
+5 Relation with the Council 
+The Director of TSB should invite the Council to consider what adjustments, if any, may be needed 
+to the ITU policy on publication, pricing, etc., in order to facilitate the rapid, wide and effective 
+dissemination of ITU-T Recommendations. 
+ 
+ 
+2 Rec. ITU-T A.11 (11/2012) 
+ 
+Annex A 
+ 
+Guidelines on publication of ITU-T Recommendations 
+(This annex forms an integral part of this Recommendation.) 
+A.1 The following guidelines have been drawn up to assist in the timely publication of the 
+approved ITU-T Recommendations. These guidelines should apply to those ITU services involved 
+in the publication and distribution of Recommendations, and (to the extent relevant) to other 
+organizations permitted by ITU to publish and distribute Recommendations under conditions and 
+arrangements established with ITU. 
+A.2 From the users' viewpoint, the main principles that need to be applied are: 
+a) the maximum feasible use of electronic publishing of Recommendations through direct 
+online access to databases that are updated as soon as possible after approval of the 
+Recommendations and by periodic publication on an appropriate distribution medium; 
+b) unambiguous labelling of Recommendations to identify successive versions (see 
+Recommendation ITU-T A.12); 
+c) convenient (e.g. online or on a distribution medium) access to appropriate guidance and 
+definitive information on prices, availability and current status of Recommendations; 
+d) simple-to-use indexes and search facilities to locate specific subjects without necessarily 
+knowing the titles or understanding the general structure and letter series used to designate 
+ITU-T Recommendations. 
+A.3 Immediately after the conditions for its approval have been met, a new or revised 
+Recommendation should be made available to the public, in accordance with the conditions 
+established by ITU. 
+1
+Recommendations should be made available in appropriate formats, such as: 
+• online access – as soon as practicable; 
+• DVD – periodically (e.g. quarterly). 
+Minor modifications may be covered by publishing amendments or corrigenda rather than reissuing 
+the complete Recommendation. 
+A.4 The current status of the complete range of Recommendations must be accessible on a 
+database at any time. 
+A.5 Adequate indexing and search facilities should be provided. 
+A.6 For research and reference purposes, ITU should maintain permanently in an archive an 
+official copy of all Recommendations that are or have been valid. 
+A.7 The generally accessible online database of Recommendations should contain versions of 
+Recommendations currently in force and versions previously in force since the 1988 Blue Book. 
+A.8 ITU copyright should be strictly enforced on all formats of ITU-T Recommendations. 
+____________________ 
+1
+  Paper copies should be made available as quickly as possible at the request of a Member State, Sector 
+Member or Associate not possessing electronic facilities, by which they can access publications of the 
+Union 
+  Rec. ITU-T A.11 (11/2012) 3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2013 

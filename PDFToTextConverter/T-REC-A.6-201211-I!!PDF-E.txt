@@ -1,0 +1,365 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.6
+(11/2012)  
+TELECOMMUNICATION 
+STANDARDIZATION SECTOR 
+OF ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Cooperation and exchange of information 
+between the ITU Telecommunication 
+Standardization Sector and national and 
+regional standards development organizations 
+ 
+Recommendation  ITU-T  A.6 
+ 
+ 
+ 
+
+ 
+Recommendation ITU-T A.6 
+Cooperation and exchange of information between the 
+ITU Telecommunication Standardization Sector and 
+national and regional standards development organizations 
+ 
+ 
+ 
+Summary 
+This Recommendation describes the establishment of the process for cooperation and information 
+exchange between ITU-T and national and regional standards development organizations, and the 
+communication process once an organization has been A.6-qualified. 
+ 
+ 
+History 
+Edition Recommendation Approval Study Group 
+1.0 ITU-T A.6 1998-09-07 TSAG  
+2.0 ITU-T A.6 2000-10-06 Assembly  
+3.0 ITU-T A.6 2002-06-21 TSAG  
+3.1  ITU-T A.6 (2002) Amd. 1 2006-07-07 TSAG  
+3.2  ITU-T A.6 (2002) Amd. 2 2007-12-07 TSAG  
+4.0 ITU-T A.6 2012-11-30 Assembly  
+ 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.6 (11/2012) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure, e.g., interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met. The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ ITU 2013 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.6 (11/2012) 
+ 
+Table of Contents 
+ Page 
+1 Scope ............................................................................................................................  1 
+2 Procedures ....................................................................................................................  1 
+2.1 Establishment of the process for cooperation and exchange of information ..  1 
+2.2 Process for cooperation and exchange of information once the process is 
+established ......................................................................................................  2 
+2.3 ITU-T A.6-qualified organizations list ...........................................................  3 
+2.4 Copyright arrangements .................................................................................  3 
+2.5 Electronic document exchange .......................................................................  3 
+Annex A – Qualifying criteria for cooperation and exchange of information process with 
+national and regional standards development organizations ........................................  4 
+Appendix I – Establishment of a process for cooperation and exchange of information 
+under Rec. ITU-T A.6 ...................................................................................................  5 
+ 
+ 
+  Rec. ITU-T A.6 (11/2012) iii 
+
+ 
+Recommendation ITU-T A.6 
+Cooperation and exchange of information between the 
+ITU Telecommunication Standardization Sector and 
+national and regional standards development organizations 
+(1998; 2000; 2002; 2006; 2007; 2012) 
+1 Scope 
+In order to facilitate the development of cooperative relationships with national and regional 
+standards development organizations, and to encourage cooperation and information exchange, 
+procedures are provided, founded on the basis of reciprocity, for use when structuring the 
+cooperation and information exchange process. 
+"National and regional standards development organizations", referred to as "standards 
+development organizations" (SDOs) in the text that follows, are those organizations that develop 
+standards recognized and implemented at the national and/or regional level. In this 
+Recommendation, the term "approved document" refers to an official output of a standards 
+development organization that has been formally approved. The term "draft document" refers to an 
+output, which is still in draft form. 
+2 Procedures 
+Study groups are encouraged to make use of documents, both approved and in draft form, provided 
+by standards development organizations, as appropriate. Similarly, standards development 
+organizations are encouraged to make use of draft or approved ITU-T Recommendations. This 
+Recommendation contains procedures for formal cooperation and exchange of information between 
+ITU-T study groups and standards development organizations that qualify, according to the criteria 
+in Annex A. In particular, this Recommendation addresses the case of an organization accepting 
+texts, in part or in whole, from another organization. The case of normative referencing is addressed 
+in Recommendation ITU-T A.5. Establishing a communication process provides a framework for 
+ongoing communications to: 
+– prevent inadvertent duplication of effort, while allowing each organization to pursue its 
+own mandate; 
+– provide authoritative information regarding one organization's dependencies on the other's 
+work; 
+– exchange information on topics of mutual interest. 
+2.1 Establishment of the process for cooperation and exchange of information 
+Establishment of a process for cooperation and exchange of information between ITU-T study 
+groups and standards development organizations should be considered on a case-by-case basis, and 
+should be evaluated with due care and diligence using the set of criteria in Annex A. For ITU-T, the 
+process is established at the study group level; for standards development organizations, the process 
+is established at the appropriate level. To avoid multiple requests to a standards development 
+organization for information pertaining to the criteria in Annex A, and to facilitate evaluation by 
+study groups, the Director of TSB makes such requests, and subsequently makes an analysis of the 
+responses to verify that the organizations meet the relevant criteria. A schematic diagram of the 
+process is provided in Appendix I. 
+  Rec. ITU-T A.6 (11/2012) 1 
+ 
+2.1.1 Exchange of information initiated by an ITU-T study group 
+If a study group considers that it is beneficial to establish an exchange of information or documents 
+with a standards development organization, the study group should first consult the ITU-T 
+A.6-qualified organizations list (see 2.3) and obtain an analysis of that standards development 
+organization from the Director. The study group reviews the analysis and decides whether or not to 
+communicate with the standards development organization. If the standards development 
+organization in question is not on the list, the study group chairman asks the Director to request the 
+standards development organization to provide the information and fill in the questionnaire relating 
+to the qualifying criteria set forth in Annex A. The Director performs a preliminary analysis of the 
+standards development organization and transmits it to the affected study group(s), which shall 
+review the analysis and make a decision whether or not to communicate. Any areas of concern 
+should be immediately shared with other interested study group chairmen and the Director. If the 
+study group decides to approve, the study group chairman establishes the cooperation document 
+acceptance and exchange processes in accordance with 2.2. 
+2.1.2 Exchange of information initiated by a national or regional standards development 
+organization 
+If a standards development organization contacts the Director of TSB to establish an exchange of 
+information or documents with ITU-T, the Director should first determine whether the exchange of 
+information or documents is relevant to: 
+a) the ITU-T Sector (for related policy issues); or 
+b) one or more study groups (for topics relating to their work). 
+In case a), the Director evaluates the standards development organization according to the criteria in 
+Annex A. If the Director decides to approve, he establishes the exchange and informs TSAG and all 
+ITU-T study groups. 
+In case b), the Director performs an analysis and transmits it to the affected study group(s), which 
+shall review the analysis and make a decision whether or not to communicate. If multiple study 
+groups are involved, the decision of each study group should be communicated to the others, to the 
+TSAG and to the Director of TSB. 
+2.2 Process for cooperation and exchange of information once the process is established 
+2.2.1 Documents sent to ITU-T A.6-qualified national and regional standards development 
+organizations 
+A standards development organization may accept, in whole or in part, the text of a draft or 
+approved ITU-T Recommendation, as all or part of the text of its draft document, with or without 
+modification to the ITU-T text. 
+When a standards development organization decides to accept ITU-T texts, it notifies TSB about 
+the actions taken concerning those texts. The use, acceptance or reproduction of such texts by the 
+standards development organization is subject to the copyright arrangements set out in 2.4. 
+A proposal to send a liaison statement to an ITU-T A.6-qualified standards development 
+organization can arise from work by a rapporteur group, working party or study group. The decision 
+to send such information is made by the study group chairman in consultation with the relevant 
+working party chairman, and, if arising from a study group meeting, with the agreement of the study 
+group. The text is sent to the standards development organization by TSB on behalf of the study 
+group. 
+When necessary, between scheduled meetings, the liaison statement may be prepared by an 
+appropriate correspondence process and approved by the study group chairman in consultation with 
+the study group management. 
+2 Rec. ITU-T A.6 (11/2012) 
+ 
+2.2.2 Documents received from ITU-T A.6-qualified national and regional standards 
+development organizations 
+An ITU-T study group may accept from an ITU-T A.6-qualified standards development 
+organization, in whole or in part, the text of a draft document, or an approved document, as all or 
+part of the text of a draft ITU-T Recommendation, with or without modification to the text. 
+When an ITU-T study group decides to accept texts from an ITU-T A.6-qualified standards 
+development organization, it notifies the organization about the actions taken concerning those 
+texts. The use, acceptance or reproduction of such texts by the ITU-T study group is subject to the 
+copyright arrangements set out in 2.4. 
+Documents submitted to the ITU-T study groups by ITU-T A.6-qualified standards development 
+organizations should conform to criterion 8) in Annex A. 
+These documents are not issued as Contributions. As soon as they arrive they are made available, 
+with the agreement of the study group chairman, for advance consideration by the relevant group. 
+Moreover, they are issued as a document to the relevant group with a reference to the originating 
+standards development organization, i.e. as a Temporary Document at a study group or working 
+party meeting, or as a document at a rapporteur meeting. In the latter case, the receipt and 
+disposition of the document received should be recorded in the report of the rapporteur meeting. 
+2.3 ITU-T A.6-qualified organizations list 
+The Director of TSB is requested to maintain an up-to-date ITU-T A.6-qualified organizations list 
+and associated analyses of the national and regional standards development organizations that are 
+under evaluation and/or have been approved for cooperation and exchange of information, 
+including identification of the study groups concerned, and make it available online. 
+2.4 Copyright arrangements 
+The subject of modifications to texts and arrangements for royalty-free copyright licenses, including 
+the right to sub-license, for texts accepted by either ITU-T or by ITU-T A.6-qualified standards 
+development organizations and their publishers and others, is a matter to be agreed upon between 
+TSB and the particular standards development organization. However, the originating organization 
+retains the copyright for its texts. 
+2.5 Electronic document exchange 
+Where possible, the exchange of documents will be in electronic format. Questions of electronic 
+links to enable document exchange is to be agreed upon by the Secretariats of the organizations 
+concerned. 
+  
+  Rec. ITU-T A.6 (11/2012) 3 
+ 
+Annex A 
+ 
+Qualifying criteria for cooperation and exchange of information process 
+with national and regional standards development organizations 
+(This annex forms an integral part of this Recommendation.) 
+ 
+NOTE – An administration may require that cooperation and exchange of information with ITU-T or its 
+study groups, by a national or regional standards development organization within that administration's 
+jurisdiction, follow its established national procedures. 
+National or regional standards 
+Desired characteristics 
+development organization attributes 
+1) Objectives/relationship of work to Objectives should be the development, adoption and implementation of standards 
+ITU-T work and the provision of input into international standards organizations, especially 
+ITU-T. 
+2) Organization:  
+ – legal status; – should indicate in which country/countries it has legal status; 
+ – accreditation; – should indicate the  accrediting entity; 
+ – secretariat; – should identify the permanent secretariat; 
+ – nominated representative. – should identify a representative. 
+3) Membership (openness) – national or regional standards development organization membership criteria 
+should not preclude any party with material interest; 
+– membership should comprise a significant representation of telecommunications 
+interests. 
+4) Technical subject  areas Should be relevant to a particular study group(s) or ITU-T as a whole. 
+5) IPR Policy and Guidelines on:  
+a) patents; a) should be consistent with "Common Patent Policy for ITU-T/ ITU-R/ISO/IEC" 
+ and "Guidelines for Implementation of the Common Patent Policy for 
+ ITU-T/ITU-R/ISO/IEC"*); 
+b) software copyright (if applicable); b) should be consistent with "ITU-T Software Copyright Guidelines"*); 
+c) marks (if applicable); and c) should be consistent with "ITU-T Guidelines related to the inclusion of Marks in 
+ ITU-T Recommendations"; 
+d) copyright; d) ITU and ITU Member States and Sector Members should have the right to copy 
+for standardization-related purposes (see also Rec. ITU-T A.1 with regard to 
+ 
+copying and distribution). 
+6) Working methods/processes – should be well-documented; 
+– should be open and fair; 
+– should support competition; 
+– should explicitly consider anti-trust issues. 
+National or regional standards Desired characteristics 
+development organization attributes 
+7) Outputs – outputs available to ITU-T should be identified; 
+– process for ITU-T to obtain outputs should be identified. 
+8) Documents submitted to ITU-T – should indicate source within the national or regional standards development 
+organization ( e.g. committee, subcommittee, etc.); 
+– should indicate degree of stability of the document ( e.g. preliminary, mature, 
+stable, proposed date of adoption, etc.); 
+– should indicate status of document (i.e. working document, draft, interim or 
+approved standard). 
+* Particularly, licences must be offered on a non-discriminatory basis on reasonable terms and conditions (whether free of charge 
+or with monetary compensation) to both members and non-members. 
+ 
+4 Rec. ITU-T A.6 (11/2012) 
+ 
+Appendix I 
+ 
+Establishment of a process for cooperation and exchange of information under Rec. ITU-T A.6 
+(This appendix does not form an integral part of this Recommendation.) 
+ 
+ 1  2  3  4 
+    
+Initiation Evaluation Decision Process once established 
+ (includes questionnaire in Annex A)  according to the criteria    = implementation 
+        
+        
+2.1.1 Initiation of the request by an SG  The SG checks the ITU-T  The SG decides to communicate  Communication process put 
+A.6-qualified list and reviews into practice by the SG  
+the analysis (if not on the list, 
+see 2.1.2 b) 
+        
+2.1.2 a) Initiation of the request by an SDO to  Evaluation by the Director   The Director decides to approve  Communication process put 
+the Director for related policy issues and informs TSAG + SGs  into practice by the Director 
+        
+2.1.2 b) Initiation of the request by an SDO to  The Director performs a  The SG decides to  Communication process put 
+the Director for SG issues preliminary analysis, the SG communicate, the SG informs into practice by the SG 
+reviews the analysis other SGs TSAG and the 
+Director 
+        
+        
+   Director adds the SDO under  Director indicates on the list that   
+evaluation to the list the SDO is ITU-T A.6-qualified 
+ 
+5 Rec. ITU-T A.6 (11/2012) 
+
+ 
+ 
+ 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Terminals and subjective and objective assessment methods 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2013 

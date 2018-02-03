@@ -1,0 +1,192 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.12
+(10/2008)  
+TELECOMMUNICATION 
+STANDARDIZATION  SECTOR 
+OF  ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Identification and layout of ITU-T 
+Recommendations 
+ 
+Recommendation  ITU-T  A.12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recommendation ITU-T A.12 
+Identification and layout of ITU-T Recommendations 
+ 
+ 
+ 
+Summary 
+This Recommendation provides information on the means on assigning the letter series designations 
+for ITU-T Recommendations.  
+ 
+ 
+Source 
+Recommendation ITU-T A.12 was prepared by TSAG (2005-2008) and approved by the World 
+Telecommunication Standardization Assembly (Johannesburg, 21-30 October 2008). 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.12 (10/2008) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure e.g. interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met.  The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ 
+©  ITU  2009 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.12 (10/2008) 
+ 
+CONTENTS 
+ Page 
+1 Scope........................................................................................................................................ 1 
+2 Identification and layout of Recommendations ....................................................................... 1 
+ 
+ 
+  Rec. ITU-T A.12 (10/2008) iii 
+
+ 
+ 
+Recommendation ITU-T A.12 
+Identification and layout of ITU-T Recommendations 
+(2000; 2004; 2008) 
+1 Scope 
+The Telecommunication Standardization Advisory Group (TSAG) periodically reviews the methods of 
+identifying and laying out Recommendations as well as the Author's Guide for drafting ITU-T 
+Recommendations, prepared and updated by the Telecommunication Standardization Bureau (TSB), 
+providing thus detailed guidelines on format and style. This Recommendation provides principles that are 
+applied in identifying and laying out Recommendations. 
+2 Identification and layout of Recommendations 
+2.1 All Recommendations of the ITU Telecommunication Standardization Sector (ITU-T) shall be 
+numbered. The number of each Recommendation shall have a letter prefix referring to the series as well as a 
+number identifying the particular subject in that series. The numbering shall be done in a manner that permits 
+clear, unequivocal identification and facilitates electronic storage of information concerning the 
+Recommendation. The Recommendation number shall be associated on the cover with the date of approval 
+in the format YYYY. The month may be added if required for uniqueness. 
+2.2 The scope of the series identified by the letter shall be as follows: 
+A Organization of the work of ITU-T 
+B Not allocated 
+C Not allocated 
+D General tariff principles 
+E Overall network operation, telephone service, service operation and human factors 
+F Non-telephone telecommunication services 
+G Transmission systems and media, digital systems and networks 
+H Audiovisual and multimedia systems  
+I Integrated services digital network 
+J Cable networks and transmission of television, sound programme and other multimedia signals 
+K Protection against interference 
+L Construction, installation and protection of cables and other elements of outside plant 
+M Telecommunication management, including TMN and network maintenance 
+N Maintenance: international sound-programme and television-transmission circuits 
+O Specifications of measuring equipment 
+P Telephone transmission quality, telephone installations, local line networks 
+Q Switching and signalling 
+R Telegraph transmission 
+S Telegraph services terminal equipment 
+T Terminals for telematic services 
+  Rec. ITU-T A.12 (10/2008) 1 
+ 
+U Telegraph switching 
+V Data communication over the telephone network 
+W Not allocated 
+X Data networks, open system communications and security 
+Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Z Languages and general software aspects for telecommunication systems 
+2.3 Recommendations in each series shall be classified in sections, according to subject. 
+2.4 The title of each Recommendation should be concise (preferably no more than one line) but unique, 
+meaningful and unambiguous. The details identifying the precise intent and coverage should be contained in 
+the text where possible (e.g., under "Scope" clause). 
+2.5 The date of formal approval of the Recommendation, the study group(s) responsible for its approval 
+and a record of revisions shall be clearly indicated. 
+2.6 The author of a new or revised Recommendation shall provide, in front of the main body of the 
+Recommendation, a summary as outlined in the "Author's Guide for drafting ITU-T Recommendations". The 
+author may also provide other up-front elements, such as background information and keywords, as provided 
+for in the Author's Guide. 
+2.7 The "Author's Guide for drafting ITU-T Recommendations" should be applied in drafting new 
+Recommendations and, wherever practicable, in revising existing Recommendations. 
+ 
+2 Rec. ITU-T A.12 (10/2008) 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Telephone transmission quality, telephone installations, local line networks 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+Printed in Switzerland 
+Geneva, 2009 

@@ -1,0 +1,404 @@
+ 
+ 
+ 
+ 
+International Telecommunication Union 
+ 
+ 
+ITU-T 
+A.31
+(10/2008)  
+TELECOMMUNICATION 
+STANDARDIZATION  SECTOR 
+OF  ITU 
+ 
+SERIES A: ORGANIZATION OF THE WORK OF ITU-T 
+ 
+ 
+Guidelines and coordination requirements for 
+the organization of ITU-T workshops and 
+seminars 
+ 
+Recommendation  ITU-T  A.31 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Recommendation ITU-T A.31 
+Guidelines and coordination requirements  
+for the organization of ITU-T workshops and seminars 
+ 
+ 
+ 
+Summary 
+This Recommendation provides guidelines and coordination requirements for the organization of 
+seminars and workshops by the Telecommunication Standardization Sector (ITU-T).  
+ 
+ 
+Source 
+Recommendation ITU-T A.31 was prepared by TSAG (2005-2008) and approved by the World 
+Telecommunication Standardization Assembly (Johannesburg, 21-30 October 2008). 
+ 
+ 
+ 
+ 
+  Rec. ITU-T A.31 (10/2008) i 
+ 
+FOREWORD 
+The International Telecommunication Union (ITU) is the United Nations specialized agency in the field of 
+telecommunications, information and communication technologies (ICTs). The ITU Telecommunication 
+Standardization Sector (ITU-T) is a permanent organ of ITU. ITU-T is responsible for studying technical, 
+operating and tariff questions and issuing Recommendations on them with a view to standardizing 
+telecommunications on a worldwide basis. 
+The World Telecommunication Standardization Assembly (WTSA), which meets every four years, 
+establishes the topics for study by the ITU-T study groups which, in turn, produce Recommendations on 
+these topics. 
+The approval of ITU-T Recommendations is covered by the procedure laid down in WTSA Resolution 1. 
+In some areas of information technology which fall within ITU-T's purview, the necessary standards are 
+prepared on a collaborative basis with ISO and IEC. 
+ 
+ 
+ 
+NOTE 
+In this Recommendation, the expression "Administration" is used for conciseness to indicate both a 
+telecommunication administration and a recognized operating agency. 
+Compliance with this Recommendation is voluntary. However, the Recommendation may contain certain 
+mandatory provisions (to ensure e.g. interoperability or applicability) and compliance with the 
+Recommendation is achieved when all of these mandatory provisions are met.  The words "shall" or some 
+other obligatory language such as "must" and the negative equivalents are used to express requirements. The 
+use of such words does not suggest that compliance with the Recommendation is required of any party. 
+ 
+ 
+ 
+ 
+INTELLECTUAL PROPERTY RIGHTS 
+ITU draws attention to the possibility that the practice or implementation of this Recommendation may 
+involve the use of a claimed Intellectual Property Right. ITU takes no position concerning the evidence, 
+validity or applicability of claimed Intellectual Property Rights, whether asserted by ITU members or others 
+outside of the Recommendation development process. 
+As of the date of approval of this Recommendation, ITU had not received notice of intellectual property, 
+protected by patents, which may be required to implement this Recommendation. However, implementers 
+are cautioned that this may not represent the latest information and are therefore strongly urged to consult the 
+TSB patent database at http://www.itu.int/ITU-T/ipr/. 
+ 
+ 
+ 
+ 
+©  ITU  2009 
+All rights reserved. No part of this publication may be reproduced, by any means whatsoever, without the 
+prior written permission of ITU. 
+ii Rec. ITU-T A.31 (10/2008) 
+ 
+CONTENTS 
+ Page 
+1 Scope........................................................................................................................................ 1 
+2 References................................................................................................................................ 1 
+3 Definitions................................................................................................................................ 1 
+3.1  Terms defined elsewhere .......................................................................................... 1 
+3.2  Terms defined in this Recommendation ................................................................... 1 
+4 Abbreviations and acronyms.................................................................................................... 2 
+5 Conventions ............................................................................................................................. 2 
+6 Choice of the proper event format............................................................................................ 2 
+7 Event format specifics.............................................................................................................. 2 
+7.1  Seminars................................................................................................................... 2 
+7.2  Workshops................................................................................................................ 2 
+8 Event coordination ................................................................................................................... 2 
+8.1  Study group strategy focused.................................................................................... 3 
+8.2  Information focused.................................................................................................. 3 
+8.3  Tutorial focused ........................................................................................................ 3 
+8.4  Promotion focused .................................................................................................... 4 
+9 Event identification .................................................................................................................. 4 
+10 Guidelines and coordination requirements for the organization of ITU-T workshops and 
+seminars ................................................................................................................................... 4 
+10.1 Guidelines, results and exchange of experience ....................................................... 4 
+10.2 Coordination within ITU-T, and between ITU-T and the other two Sectors and the 
+General Secretariat of ITU........................................................................................ 5 
+10.3 Coordination between ITU-T and relevant SDOs and regional organizations ......... 5 
+10.4 Administrative nature ............................................................................................... 5 
+11 Basic requirements for the evaluation and follow-up actions of workshops and seminars...... 5 
+ 
+ 
+  Rec. ITU-T A.31 (10/2008) iii 
+
+ 
+ 
+Recommendation ITU-T A.31 
+Guidelines and coordination requirements  
+for the organization of ITU-T workshops and seminars 
+(2008) 
+1 Scope 
+This Recommendation provides guidelines and coordination requirements for the organization of workshops 
+and seminars by ITU-T. These workshops and seminars aim for discussion and dissemination of the 
+development of standards for worldwide implementation in telecommunications carried out by the study 
+groups (SGs) of ITU-T. 
+2 References 
+The following ITU-T Recommendations and other references contain provisions that, through reference in 
+this text, constitute provisions of this Recommendation. At the time of publication, the editions indicated 
+were valid. All Recommendations and other references are subject to revision; users of this Recommendation 
+are therefore encouraged to investigate the possibility of applying the most recent edition of the 
+Recommendations and other references listed below. A list of the currently valid ITU-T Recommendations is 
+regularly published. The reference to a document within this Recommendation does not give it, as a stand-
+alone document, the status of a Recommendation. 
+[ITU-T A.1]   Recommendation ITU-T A.1 (2008), Work methods for study groups of the ITU 
+Telecommunication Standardization Sector (ITU-T). 
+3 Definitions 
+3.1 Terms defined elsewhere 
+None. 
+3.2 Terms defined in this Recommendation 
+This Recommendation defines the following terms: 
+3.2.1 seminar: The seminar is a primarily one-way format, focused on the dissemination of information, 
+in what amounts to classroom-style format. Depending on the subject and/or audience, there may be a lesser 
+or greater degree of participant interaction with the experts who are presenting. 
+3.2.2 workshop: The workshop environment is fundamentally a meeting of peers, gathered to discuss 
+technical, implementation, industry, or strategic issues. Workshops can span a spectrum of styles, from 
+highly technical events focusing on a single detailed issue, to broader gatherings intended to expose a wide 
+spectrum of input and opinion. 
+  Rec. ITU-T A.31 (10/2008) 1 
+ 
+4 Abbreviations and acronyms 
+This Recommendation uses the following abbreviations and acronyms: 
+SC Steering committee 
+SDO Standards development organization 
+SGs Study groups 
+5 Conventions 
+Terminologies and definitions throughout this Recommendation must be considered in accordance with the 
+ITU-T ''Author's guide for drafting ITU-T Recommendations". 
+6 Choice of the proper event format 
+6.1 The format, scope and goals of each planned event must be determined at the start of the event-
+planning process, as these choices will determine the addressable target audience, and trigger the workshop 
+or seminar notification and promotion process. The awareness of these nuances among different workshop 
+and seminar events is relevant to appropriate event planning and, therefore, to consistent and successful 
+results. 
+6.2 As a way forward to accomplish organization consistency and reach common understanding on the 
+Sector's needs, and to facilitate cooperation and coordination in the organization of cross-Sector events, the 
+above-mentioned standardized terminology (see clause 3) should be observed in order to cope with different 
+characteristics of events within the Sector. 
+7 Event format specifics 
+7.1 Seminars 
+Seminars are most useful in sharing ITU-T vision and technical knowledge with new participants who have 
+not previously been exposed to the scope, workings, or results of the ITU-T standardization process. 
+7.2 Workshops 
+Workshops are the preferred vehicle for demonstrations, technical issue resolution, and for the creation of 
+specific deliverables (outputs). A workshop should have clear goals and a limited scope, setting and 
+delivering upon well-defined expectations from the participants and workshop leaders. 
+8 Event coordination 
+Aiming at the improvement of the organization of ITU-T workshops and seminars, and coordination with the 
+other two Sectors and the General Secretariat for the preparation, running and evaluation of workshops and 
+seminars, four types of ITU-T workshops and seminars are defined, according to the distinct levels of 
+1
+coordination and the structures, scopes and goals each type requires. 
+____________________ 
+1
+  Some of the events defined in this Recommendation may have a mixed nature, such as dissemination of information 
+and promotion. 
+2 Rec. ITU-T A.31 (10/2008)  
+ 
+8.1 Study group strategy focused 
+8.1.1 These events are focused on a specific technical topic or standardization area. 
+8.1.2 The main objective is to review points of current development of technology, application and 
+service. 
+8.1.3 In general, they gather information on standardization development in other standardization 
+development organizations (SDOs). 
+8.1.4 They aim at in-depth discussion on the work programme of the SGs, that is, subsequent 
+standardization projects, improvements in coordination or cooperation methods with other SDOs, etc. 
+8.1.5 The proposal for this type of workshop or seminar normally comes from the SG management teams 
+and membership. Speakers are usually proposed and invited by internal experts. 
+8.1.6 Such events are in general collocated with SG meetings and the audience comprises mainly SG 
+delegates and non-ITU-T members. 
+8.1.7 Some of these events are co-organized with the Telecommunication Development Bureau (BDT) to 
+reply to WTSA Resolution 44 concerning the requirements to bridge the standardization gap. 
+8.1.8 These events have the following advantages: 
+a) they ensure that the workshop or seminar topic is closely relevant to SG work; 
+b) they are cost-effective in terms of organization, and avoid extra time/cost to SG delegates; 
+c) they have a guaranteed quantity and quality of participants; thus, a guaranteed quality of discussion. 
+8.2 Information focused 
+8.2.1 These events are focused on a new technology or emerging study area. By carrying them out, it is 
+possible to review points of current development of technology, applications and services. 
+8.2.2 They are good opportunities for briefing SGs with information regarding standardization 
+development in other SDOs. 
+8.2.3 The proposal for this type of workshop or seminar normally comes from the SG management teams 
+and membership or from the technology watch function of TSB. Speakers are usually proposed and invited 
+by internal experts. 
+8.2.4 Such events are in general collocated with SG meetings and the audience comprises mainly SG 
+delegates. 
+8.2.5 These events have the following advantages: 
+a) they ensure that the workshop or seminar topic is closely relevant to SG work; 
+b) they are cost-effective in terms of organization, and avoid extra time/cost to SG delegates; 
+c) they have a guaranteed quantity and quality of participants; thus, a guaranteed quality of discussion; 
+d) they could bring new ideas and work topics to relevant SGs. 
+8.3 Tutorial focused 
+8.3.1 These events are focused on ITU-T SG ongoing work or published Recommendations. Topics are 
+selected according to local interest. 
+8.3.2 The main goal is to disseminate ITU-T technical knowledge and to promote the products of the 
+work on standardization. 
+  Rec. ITU-T A.31 (10/2008) 3 
+ 
+8.3.3 They are often co-organized with and funded by BDT and targeted at developing countries. 
+8.3.4 ITU-T membership or BDT normally initiates this type of event and proposes topics of interest. The 
+Telecommunication Standardization Bureau (TSB) informs and relies on the related SG management team to 
+look for and identify qualified speakers. 
+8.4 Promotion focused 
+8.4.1 These events are closely linked to promotion activities held outside ITU in order to promote ITU-T 
+work and demonstrate the extent to which ITU contributes in a specific technical area. 
+8.4.2 Though this type of event is mostly suggested by one or more SGs, with specific venue and date, it 
+might not be collocated with the SG meeting but rather associated with a non-ITU industry event related to 
+its study topic. 
+9 Event identification 
+Once the event format and coordination are properly identified, all related information shall be made 
+available to the Steering Committee (SC), who will be responsible for revising and issuing general advice on 
+the strategic coordination, planning, organization, programme, implementation, drawing and follow-up 
+actions. This SC's task shall be taken according to clause 10 below. 
+10 Guidelines and coordination requirements for the organization of ITU-T workshops 
+and seminars 
+An appropriate working party within the Telecommunication Standardization Advisory Group (TSAG) shall 
+undertake the responsibility for all activities and tasks regarding the organization of ITU-T workshops and 
+seminars. The following clauses indicate such duties, followed by those within ITU-T to assist TSAG in this 
+undertaking. 
+10.1 Guidelines, results and  exchange of experience 
+10.1.1 Study and provide conceptual and strategic guidelines for the preparation, running and evaluation of 
+workshops and seminars. 
+ Support: TSB. 
+10.1.2 Review the extent to which it is possible to follow the conceptual and strategic guidelines in the 
+preparation, running and evaluation of each workshop or seminar. 
+ Support: TSB. 
+10.1.3 Review the reports produced by each workshop or seminar that, inter alia, cover lessons learned 
+and recommended follow-up actions. These reports should be produced no later than three months following 
+the events. The reports should highlight the needs of developing countries, if any, and be disseminated as 
+widely as possible. 
+ Support: Study groups and TSB. 
+10.1.4 Contribute to the exchange of positive experience in the preparation, running and evaluation of the 
+workshops and seminars. 
+ Support: Study groups and TSB. 
+4 Rec. ITU-T A.31 (10/2008)  
+ 
+10.1.5 Encourage and evaluate the evolving implementation of the gender perspective in the programme of 
+ITU-T workshops and seminars. 
+ Support: TSB. 
+10.2 Coordination within ITU-T, and between ITU-T and the other two Sectors and the 
+General Secretariat of ITU 
+10.2.1 Coordinate and assess the development of the ITU-T programme of workshops and seminars, taking 
+into consideration budgetary implications and the needs of developing countries. 
+ Support: TSB, in cooperation with BDT (e.g., ITU regional offices and centres of excellence), as 
+applicable. 
+10.2.2 Coordinate and harmonize the programme of ITU-T workshops and seminars, in close cooperation 
+with the other two Sectors and the General Secretariat of ITU. 
+ Support: TSB, in cooperation with BDT, BR and the General Secretariat, as applicable. 
+10.2.3 Coordinate and harmonize the programme of ITU-T workshops and seminars, in order to optimize 
+the participation of non-ITU-T members involved with technological innovation and technical change (e.g., 
+academia, research organizations, and small and medium enterprises) in as many events as practicable. 
+ Support: TSB. 
+10.2.4 Work in close cooperation with the study groups' management teams and TSB. 
+ Support: TSB, in cooperation with BDT, as applicable. 
+10.2.5 Take into account relevant topics identified by the technology watch function of TSAG, in order to 
+encourage the eventual organization of a workshop or seminar associated with them. 
+ Support: TSB. 
+10.3 Coordination between ITU-T and relevant SDOs and regional organizations 
+Coordinate and harmonize the programme of ITU-T workshops and seminars, in close cooperation with 
+relevant regional organizations. 
+ Support: TSB. 
+10.4 Administrative nature 
+Provide a report on the activities addressed in clauses 10.1, 10.2 and 10.3, to each meeting of TSAG for 
+consideration and appropriate action. 
+ Support: TSB. 
+11 Basic requirements for the evaluation and follow-up actions of workshops and 
+seminars 
+11.1 Depending consistently upon the use of information technology, ITU-T homepages are identified as 
+a crucial item for improving the organization of workshops and seminars and giving valuable feedback to 
+TSB and TSAG on current status. Therefore, the website is to be maintained by TSB, so that accurate 
+information provided by workshop and seminar organizers and the SC is made public on the Internet to all 
+interested parties. 
+  Rec. ITU-T A.31 (10/2008) 5 
+ 
+11.2 The website shall provide a range of functionalities, including immediate access to past, current and 
+forthcoming events. Data on events is to be shown in a standardized format and is to include the following 
+basic requirements for the evaluation and follow-up actions of ITU-T workshops and seminars, as 
+exemplified in Table 1:  
+− Title 
+− Place 
+− Start date 
+− End date 
+− Basic information 
+• Contact 
+• Invitation 
+• Programme 
+• Steering committee 
+• Sponsorship 
+• Introduction 
+• Objective 
+− Type 
+• Event format 
+• Event coordination 
+− Content 
+• Abstract 
+• Presentations 
+• Biography 
+− Report 
+− List of participants 
+ 
+Table 1 − Format of information for the evaluation and follow-up actions of  
+workshops and seminars 
+ 
+Basic information Content 
+Start End Report List of 
+Item Title Place 
+participants
+date date **** 
+Type 
+<city>, 
+dd/mm/yy dd/mm/yy
+# <name of event> *** 
+√ √ √ √ √ √ √ √ √ √ √ √ 
+<country> 
+*   The invitation letter contains also information notes so that the wording should be: "Invitation letter and  
+  information notes", if not explicitly mentioned in a separated link, "Information notes or practical information".  
+**  This column indicates if the steering committee information was available on the webpage of the event. 
+*** The indication of the "Type" of event implies that both the "event format" (workshop or seminar) and the  
+  "event coordination" (study group strategy, information, tutorial or promotion focused) shall be clearly  
+  identified (refer to clauses 7 and 8).  
+****  Three months is the expected period for the final report submission. 
+6 Rec. ITU-T A.31 (10/2008)  
+Contact 
+Invitation* 
+Programme 
+Steering ** 
+Sponsorship 
+Introduction 
+Objective 
+Abstract 
+Presentations
+Biography 
+ 
+ 
+ 
+SERIES OF ITU-T RECOMMENDATIONS 
+Series A Organization of the work of ITU-T 
+Series D General tariff principles 
+Series E Overall network operation, telephone service, service operation and human factors 
+Series F Non-telephone telecommunication services 
+Series G Transmission systems and media, digital systems and networks 
+Series H Audiovisual and multimedia systems 
+Series I Integrated services digital network 
+Series J Cable networks and transmission of television, sound programme and other multimedia signals 
+Series K Protection against interference 
+Series L Construction, installation and protection of cables and other elements of outside plant 
+Series M Telecommunication management, including TMN and network maintenance 
+Series N Maintenance: international sound programme and television transmission circuits 
+Series O Specifications of measuring equipment 
+Series P Telephone transmission quality, telephone installations, local line networks 
+Series Q Switching and signalling 
+Series R Telegraph transmission 
+Series S Telegraph services terminal equipment 
+Series T Terminals for telematic services 
+Series U Telegraph switching 
+Series V Data communication over the telephone network 
+Series X Data networks, open system communications and security 
+Series Y Global information infrastructure, Internet protocol aspects and next-generation networks 
+Series Z Languages and general software aspects for telecommunication systems 
+  
+ 
+ 
+Printed in Switzerland 
+Geneva, 2009 
